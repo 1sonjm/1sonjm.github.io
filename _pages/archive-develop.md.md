@@ -1,9 +1,10 @@
 ---
 title: "개발관련 자료"
 permalink: /develop/
-layout: posts
+layout: categories
 author_profile: true
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTIxOTEwMDZdfQ==
+eyJoaXN0b3J5IjpbLTE2OTUzNDY1NTksLTExMTIxOTEwMDZdfQ
+==
 -->
