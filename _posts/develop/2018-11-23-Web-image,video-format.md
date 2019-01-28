@@ -1,3 +1,13 @@
+---
+title: "Web Image/Video Format"
+search: true
+categories: 
+  - 정보
+tags: 
+  - format
+toc: true
+toc_sticky: true
+---
 # Web Image/Video Format  
 
 ## WebP  [?](https://ko.wikipedia.org/wiki/WebP)
@@ -10,5 +20,5 @@ WebM 이란
 [비교 1](https://corydowdy.com/blog/apng-vs-webp-vs-gif)
 [비교 2](https://kr.bandisoft.com/honeycam/help/file_format/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzYwNzIyNzldfQ==
+eyJoaXN0b3J5IjpbOTA3MjU5OTg2XX0=
 -->
