@@ -1,12 +1,10 @@
 ---
-title: "개발관련 자료"
+title: "개발관련 자료[link](https://stackedit.io)"[link](https://stackedit.io)
 permalink: /develop/
 layout: categories
 author_profile: true
 ---
-
-ㅁㄴㅇㄻㄴㅇㄹ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Nzg1MzI0MCwtMTY5NTM0NjU1OSwtMT
+eyJoaXN0b3J5IjpbMTM3MzQwOTM5MywtMTY5NTM0NjU1OSwtMT
 ExMjE5MTAwNl19
 -->
