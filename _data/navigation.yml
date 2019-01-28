@@ -6,5 +6,7 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
-   - title: "개발"
-     url: /develop/
+   - title: "categries"
+     url: /categories/
+   - title: "tags"
+     url: /tags/
