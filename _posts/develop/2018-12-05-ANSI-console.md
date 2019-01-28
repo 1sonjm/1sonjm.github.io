@@ -1,5 +1,4 @@
 ---
-
 search: true
 categories: 
   - 정보
@@ -13,5 +12,5 @@ toc_sticky: true
 https://marketplace.eclipse.org/content/ansi-escape-console  
 console 텍스트에 색상추가
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4MDE0MDY3XX0=
+eyJoaXN0b3J5IjpbLTI1OTU5MzcyM119
 -->
