@@ -1,10 +1,10 @@
 ---
-title: "개발관련 자료"
-permalink: /develop/
+title: "분류 : 카테고리"
+permalink: /categories/
 layout: categories
 author_profile: true
 ---
-[연도별 목록](https://stackedit.io)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDc5MzQ3MV19
+eyJoaXN0b3J5IjpbMTE3NzgxMjE2MF19
 -->
