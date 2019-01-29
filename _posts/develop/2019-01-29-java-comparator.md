@@ -20,8 +20,6 @@ header:
 ### 예시
 ```java
 public class Player implements Comparable<Player> {
-     
-    //...
     @Override
     public int compareTo(Player otherPlayer) {
         return (this.getRanking() - otherPlayer.getRanking());
@@ -32,6 +30,10 @@ public class Player implements Comparable<Player> {
 ### 정의
 기존에 Comparable의 compareTo로 구현된 것이 아닌 별도의 정렬기준을 적용할때
 ### 예시
+
+# 참조
+https://www.baeldung.com/java-comparator-comparable
+https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM5NjQ5MzBdfQ==
+eyJoaXN0b3J5IjpbODA4MjA0MjUwXX0=
 -->
