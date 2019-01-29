@@ -15,7 +15,11 @@ $border-color: mix(#000, $background-color, 20%) !default;
 $code-background-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color-dark: mix(#000, $background-color, 10%) !default;
 $form-background-color: mix(#fff, $background-color, 15%) !default;
-$footer-background-color: #ffac63 !default;
+//$footer-background-color: #ffac63 !default;
+@mixin $footer-background-color {
+  background: #7b77dd; /* Old browsers */
+  background: linear-gradient(to bottom, #7b77dd 1%,#d17a60 39%,#d17a60 39%,#d17a60 66%,#d17a60 66%,#e2df9a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+} !default;
 $link-color: mix(#000, $primary-color, 10%) !default;
 $link-color-hover: mix(#fff, $link-color, 25%) !default;
 $link-color-visited: mix(#000, $link-color, 25%) !default;
