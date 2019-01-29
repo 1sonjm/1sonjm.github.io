@@ -2,7 +2,7 @@
 title: "java / API / Comparable, Comparator"
 search: true
 categories: 
-  - 학습
+  - api
 tags: 
   - api
   - java
@@ -26,6 +26,8 @@ public class Player implements Comparable<Player> {
     }
 }
 ```
+>Before Sorting : [John, Roger, Steven]
+>After Sorting : [Steven, John, Roger]
 ## Comparator
 ### 정의
 기존에 Comparable의 compareTo로 구현된 것이 아닌 별도의 정렬기준을 적용할때
@@ -35,5 +37,5 @@ public class Player implements Comparable<Player> {
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4MjA0MjUwXX0=
+eyJoaXN0b3J5IjpbMTg3OTYzNTczN119
 -->
