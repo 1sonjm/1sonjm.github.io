@@ -16,7 +16,8 @@ header:
 
 ## 정의
 ## 사용예
+# 참고
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyODUwOTE5XX0=
+eyJoaXN0b3J5IjpbMzg0MTMzNzQ0XX0=
 -->
