@@ -293,3 +293,6 @@ defaults:
       comments: true
       share: true
       related: true
+      header:  
+        overlay_image: /assets/images/ray-hennessy-359003-unsplash.jpg
+        caption: "Photo credit: [**Unsplash**]([https://unsplash.com](https://unsplash.com/)"
