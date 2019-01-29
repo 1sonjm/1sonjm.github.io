@@ -14,10 +14,8 @@ header:
 
 # 핵심
 객체가 정렬될때, 사용자의 의도에 따라 정렬 구조를 변경할 수 있도록 지원되는 인터페이스
-## 정의
-## 사용예
-# 참고
-
+## Comparable
+## Comparator
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAzNzI2NjJdfQ==
+eyJoaXN0b3J5IjpbLTM1NjIwNjYzM119
 -->
