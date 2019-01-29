@@ -1,5 +1,5 @@
 ---
-title: "java / API / Comparator"
+title: "java / API / Comparable, Comparator"
 search: true
 categories: 
   - 학습
@@ -19,5 +19,5 @@ header:
 # 참고
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEwNDY4MjBdfQ==
+eyJoaXN0b3J5IjpbLTE1OTAzNzI2NjJdfQ==
 -->
