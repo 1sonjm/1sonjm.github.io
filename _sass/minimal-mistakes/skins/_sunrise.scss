@@ -4,7 +4,11 @@
 
 /* Colors */
 $dark-gray: #0e2431 !default;
-$background-color: #ecc398 !default;
+@mixin $background-color {
+  background: #7b77dd; /* Old browsers */
+  background: linear-gradient(to bottom, #7b77dd 1%,#d17a60 39%,#d17a60 39%,#d17a60 66%,#d17a60 66%,#e2df9a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+//$background-color: #ecc398 !default;
 $text-color: #000 !default;
 $muted-text-color: $dark-gray !default;
 $primary-color: #e54b4b !default;
