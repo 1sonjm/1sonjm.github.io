@@ -18,10 +18,20 @@ header:
 ### 정의
 구현되는 클래스의 기본 정렬기준을 별도로 구현
 ### 예시
+```java
+public class Player implements Comparable<Player> {
+     
+    //...
+    @Override
+    public int compareTo(Player otherPlayer) {
+        return (this.getRanking() - otherPlayer.getRanking());
+    }
+}
+```
 ## Comparator
 ### 정의
-기존에 Comparable로 구현된 
+기존에 Comparable의 compareTo로 구현된 것이 아닌 별도의 정렬기준을 적용할때
 ### 예시
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTY2NTM3MF19
+eyJoaXN0b3J5IjpbLTE2NDM5NjQ5MzBdfQ==
 -->
