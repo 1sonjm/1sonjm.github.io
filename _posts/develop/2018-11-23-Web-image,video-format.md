@@ -1,7 +1,5 @@
 ---
 search: true
-classes:
-  - wide
 categories: 
   - 정보
 tags: 
@@ -18,5 +16,5 @@ WebM 이란
 [비교 1](https://corydowdy.com/blog/apng-vs-webp-vs-gif)
 [비교 2](https://kr.bandisoft.com/honeycam/help/file_format/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYzMjIwNzEsLTEwODQyNjM1NV19
+eyJoaXN0b3J5IjpbMTEzMzIwODk2NywtMTA4NDI2MzU1XX0=
 -->
