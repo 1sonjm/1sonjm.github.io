@@ -13,11 +13,11 @@ header:
 ---
 
 # 핵심
-
+객체가 정렬될때, 사용자의 의도에 따라 정렬 구조를 변경할 수 있도록 지원되는 인터페이스
 ## 정의
 ## 사용예
 # 참고
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0MTMzNzQ0XX0=
+eyJoaXN0b3J5IjpbLTE0MjEwNDY4MjBdfQ==
 -->
