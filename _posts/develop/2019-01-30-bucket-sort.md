@@ -13,7 +13,8 @@ tags:
 댓글중 버킷 정렬에 대한 댓글로 버킷정렬에 대해 얘기가 나와 궁금해졌다.
 
 # 버킷 정렬(bucket sort)
-## 절
+## 절차
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTc3MDU5NF19
+eyJoaXN0b3J5IjpbLTg3NzQ0NDU1Ml19
 -->
