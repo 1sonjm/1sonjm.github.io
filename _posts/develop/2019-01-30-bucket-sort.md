@@ -35,11 +35,30 @@ tags:
 
 ## 코드
 ```java
+public void bucetsort(int[] numbers) {
+	// int[0~9][0~n] 2차배열 생성
+	List<LinkedList<String>> numberGroup = new ArrayList<>();
+	for (int i = 0; i < 10; i++) {
+	    numberGroup.add(new LinkedList<>());
+	}
+
+	// 맨앞자리 숫자값으로 분류하여 배열 삽입
+	for (int num : numbers) {
+	    String temp = Integer.toString(num);
+	    int numIndex = Integer.parseInt(temp.substring(0, 1));// 앞부분 때기
+	    numberGroup.get(numIndex).add(temp);
+	}
+
+	// 배열 정렬
+	for (LinkedList<String> numberList : numberGroup) {
+        Collections.sort(numberList, Collections.reverseOrder());
+	}
 ```
 
 ## 잡설
 처음에 버킷정렬만 들었을 땐 감이 안왔는데 구조를 보자마자 생각난게  
 알고리즘 풀이 시도중 K번째 수
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDQ0MDQzNiwtMTk3NTM4Njg0N119
+eyJoaXN0b3J5IjpbLTEzNTI4MjAzNjUsLTE5NzUzODY4NDddfQ
+==
 -->
