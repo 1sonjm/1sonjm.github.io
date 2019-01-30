@@ -15,7 +15,7 @@ tags:
 # 버킷 정렬(bucket sort)
 ## 절차
 
-{% include figure image_path="https://imgur.com/a/aDaGZJj" alt="this is a placeholder image" caption="bucket sort " %}
+{% include figure image_path="https://imgur.com/a/aDaGZJj" alt="bucket sort progress" caption="bucket sort progress" %}
 
 ## 코드
 ```java
@@ -45,6 +45,6 @@ public void bucketSort(int[] numbers) {
 버킷정렬을 고려하고 짠건 아닌데 이런 형태의 정렬구조가 있었음을 알았다.  
 사실 알게 모르게 다양한 정렬을 쓰고있을 것 이다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Nzk1MjY4NywtMTU0NzM5ODgwNCwtMT
+eyJoaXN0b3J5IjpbMTU4MzU2MzA0OCwtMTU0NzM5ODgwNCwtMT
 k3NTM4Njg0N119
 -->
