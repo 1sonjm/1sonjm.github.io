@@ -38,8 +38,8 @@ tags:
 ```
 
 ## 잡설
-짆
+처음에 버킷정렬만 들었을 땐 감이 안왔는데 구조를 보자마자 생각난게  
+알고리즘 풀이 시도중 K번째 수
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzYxNDg2MTgsLTE5NzUzODY4NDddfQ
-==
+eyJoaXN0b3J5IjpbMTkyMDQ0MDQzNiwtMTk3NTM4Njg0N119
 -->
