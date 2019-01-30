@@ -14,9 +14,9 @@ tags:
 
 # 버킷 정렬(bucket sort)
 ## 절차
-|  |  |
-|--|--|
-|  |  |
+
+| 11 | 32 | 15 | 45 | 51 | 24 | 37 | 10 | 48 | 15 |
+|----|----|----|----|----|----|----|----|----|----|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzEyODM1Ml19
+eyJoaXN0b3J5IjpbMTE1Mzg0MTk0MV19
 -->
