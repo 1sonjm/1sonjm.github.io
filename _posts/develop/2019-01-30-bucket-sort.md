@@ -1,0 +1,18 @@
+---
+title: "알고리즘 / 버킷정렬"
+search: true
+categories: 
+  - algorithm
+tags: 
+  - algorithm
+  - sort
+---
+
+인터넷 자료를 보던중 [컴퓨터의 세계 밖에서 발견한 O(n) 소팅](https://okky.kr/article/466103) 이란 게시글을 보게되었다.  
+보통 정렬 알고리즘은 O(nlogn) 정도가 제일 빠른것으로 표를 통해 보았는데  
+댓글중 버킷 정렬에 대한 댓글로 버킷정렬에 대해 얘기가 나와 궁금해졌다.
+
+# 버킷 정렬(bucket sort)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTcyNjczNzY2OF19
+-->
