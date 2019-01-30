@@ -17,7 +17,7 @@ tags:
 기초 데이터
 | 11 | 32 | 15 | 45 | 51 | 24 | 37 | 20 | 48 | 13 |
 |----|----|----|----|----|----|----|----|----|----|
-
+---
 진행되는 구조
 | 1  | 2  | 3  | 4  | 5  | 
 |----|----|----|----|----|
@@ -61,5 +61,5 @@ public void bucketSort(int[] numbers) {
 버킷정렬을 고려하고 짠건 아닌데 이런 형태의 정렬구조가 있었음을 알았다.  
 사실 알게 모르게 다양한 정렬을 쓰고있을 것 이다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQwMzYwNCwtMTk3NTM4Njg0N119
+eyJoaXN0b3J5IjpbODMwMjg2MTcxLC0xOTc1Mzg2ODQ3XX0=
 -->
