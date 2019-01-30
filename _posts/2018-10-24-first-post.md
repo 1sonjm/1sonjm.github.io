@@ -7,7 +7,7 @@ tags:
   - foramt
 toc: true
 ---
-gi
+Guide: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -27,6 +27,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjY5NjI0MCwtMTYyMzc4NjIxNCwxOT
+eyJoaXN0b3J5IjpbMTA5NTMxOTc4MSwtMTYyMzc4NjIxNCwxOT
 M5OTU1NzY2XX0=
 -->
