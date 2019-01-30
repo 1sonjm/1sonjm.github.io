@@ -41,10 +41,12 @@ public void bucketSort(int[] numbers) {
 
 ## 잡설
 처음에 버킷정렬만 들었을 땐 감이 안왔는데 구조를 보자마자 생각난게  
-알고리즘 풀이 시도중 K번째 수에 사용한 코드가 떠올랐다.  
+알고리즘 풀이 시도중 K번째 수에 사용한 코드가 떠올랐다. 
+
+코드는 해당 풀이에서 가져왔는데  
 버킷정렬을 고려하고 짠건 아닌데 이런 형태의 정렬구조가 있었음을 알았다.  
 사실 알게 모르게 다양한 정렬을 쓰고있을 것 이다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2NzYzODkyLC0xNTQ3Mzk4ODA0LC0xOT
-c1Mzg2ODQ3XX0=
+eyJoaXN0b3J5IjpbMTkzODE4Njg0MSwtMTU0NzM5ODgwNCwtMT
+k3NTM4Njg0N119
 -->
