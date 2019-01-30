@@ -23,9 +23,9 @@ tags:
 
 | 1  | 2  | 3  | 4  | 5  | 
 |----|----|----|----|----|
-| 11 | 24 | 32 | 45 | 51 |
-| 15 | 20 | 37 | 48 |    |
-| 13 |    |    |    |    |
+| 11 | 20 | 32 | 45 | 51 |
+| 13 | 24 | 37 | 48 |    |
+| 15 |    |    |    |    |
 
 (정렬)
 
@@ -63,6 +63,5 @@ public void bucketSort(int[] numbers) {
 버킷정렬을 고려하고 짠건 아닌데 이런 형태의 정렬구조가 있었음을 알았다.  
 사실 알게 모르게 다양한 정렬을 쓰고있을 것 이다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDczOTg4MDQsLTE5NzUzODY4NDddfQ
-==
+eyJoaXN0b3J5IjpbLTc3MTI1MDA2OCwtMTk3NTM4Njg0N119
 -->
