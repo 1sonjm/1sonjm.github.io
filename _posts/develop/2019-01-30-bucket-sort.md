@@ -7,8 +7,8 @@ tags:
   - algorithm
   - sort
 ---
-
 인터넷 자료를 보던중 [컴퓨터의 세계 밖에서 발견한 O(n) 소팅](https://okky.kr/article/466103) 이란 게시글을 보게되었다.  
+
 보통 정렬 알고리즘은 O(nlogn) 정도가 제일 빠른것으로 표를 통해 보았는데  
 댓글중 버킷 정렬에 대한 댓글로 버킷정렬에 대해 얘기가 나와 궁금해졌다.
 
@@ -61,5 +61,5 @@ public void bucketSort(int[] numbers) {
 버킷정렬을 고려하고 짠건 아닌데 이런 형태의 정렬구조가 있었음을 알았다.  
 사실 알게 모르게 다양한 정렬을 쓰고있을 것 이다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwMjg2MTcxLC0xOTc1Mzg2ODQ3XX0=
+eyJoaXN0b3J5IjpbMTUyNzY3ODE3MSwtMTk3NTM4Njg0N119
 -->
