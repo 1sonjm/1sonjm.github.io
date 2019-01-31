@@ -15,10 +15,13 @@ header:
 # 핵심
 객체가 정렬될때, 사용자의 의도에 따라 정렬 구조를 변경할 수 있도록 지원되는 인터페이스  
 
+## 기본 코드
+
+
 ## Comparable
 ### 정의
 구현되는 클래스의 기본 정렬기준을 별도로 구현
-### 예시
+### 코드
 ```java
 public class Player implements Comparable<Player> {
     @Override
@@ -33,11 +36,11 @@ public class Player implements Comparable<Player> {
 ## Comparator
 ### 정의
 기존에 Comparable의 compareTo로 구현된 것이 아닌 별도의 정렬기준을 적용할때
-### 예시
+### 코드
 
 # 참조
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2OTgwNjI5XX0=
+eyJoaXN0b3J5IjpbLTE3OTc3MjIxNzcsNTU2OTgwNjI5XX0=
 -->
