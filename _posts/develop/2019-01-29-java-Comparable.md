@@ -53,6 +53,7 @@ public class Player {
 public class Player implements Comparable<Player> {
     @Override
     public int compareTo(Player otherPlayer) {
+	    // ranking 값이 작은 순으로 정렬
         return (this.getRanking() - otherPlayer.getRanking());
     }
 }
@@ -69,6 +70,6 @@ public class Player implements Comparable<Player> {
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTUzMTcyNCwtMTQxOTIxNTYzMSwxMj
-cwNTM3Mjg5LDU1Njk4MDYyOV19
+eyJoaXN0b3J5IjpbMjkwNDM1NTE0LC0xOTU1MzE3MjQsLTE0MT
+kyMTU2MzEsMTI3MDUzNzI4OSw1NTY5ODA2MjldfQ==
 -->
