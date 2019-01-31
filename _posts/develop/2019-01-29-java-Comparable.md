@@ -16,11 +16,33 @@ header:
 객체가 정렬될때, 사용자의 의도에 따라 정렬 구조를 변경할 수 있도록 지원되는 인터페이스  
 
 ## 기본 코드
-
+```java
+public static void main(String[] args) {
+    List<Player> footballTeam = new ArrayList<>();
+    Player player1 = new Player(59, "John", 20);
+    Player player2 = new Player(67, "Roger", 22);
+    Player player3 = new Player(45, "Steven", 24);
+    footballTeam.add(player1);
+    footballTeam.add(player2);
+    footballTeam.add(player3);
+ 
+    System.out.println("Before Sorting : " + footballTeam);
+    Collections.sort(footballTeam);
+    System.out.println("After Sorting : " + footballTeam);
+}
+```
+```java
+public class Player {
+    private int ranking;
+    private String name;
+    private int age;  
+    // constructor, getters, setters  
+}
+```
 
 ## Comparable
 ### 정의
-구현되는 클래스의 기본 정렬기준을 별도로 구현
+**구현되는 클래스의 기본 정렬기준을 별도로 구현**
 ### 코드
 ```java
 public class Player implements Comparable<Player> {
@@ -42,5 +64,5 @@ public class Player implements Comparable<Player> {
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc3MjIxNzcsNTU2OTgwNjI5XX0=
+eyJoaXN0b3J5IjpbMTI3MDUzNzI4OSw1NTY5ODA2MjldfQ==
 -->
