@@ -36,7 +36,10 @@ public class Player {
     private int ranking;
     private String name;
     private int age;  
-    // constructor, getters, setters  
+    Player(int ranking, String name, int age){
+	    // constructor
+    }
+    // getters, setters  
 }
 ```
 
@@ -66,6 +69,6 @@ public class Player implements Comparable<Player> {
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTkyMTU2MzEsMTI3MDUzNzI4OSw1NT
-Y5ODA2MjldfQ==
+eyJoaXN0b3J5IjpbLTE5NTUzMTcyNCwtMTQxOTIxNTYzMSwxMj
+cwNTM3Mjg5LDU1Njk4MDYyOV19
 -->
