@@ -43,7 +43,7 @@ public class Player {
 ## Comparable
 ### 정의
 **구현되는 클래스의 기본 정렬기준을 별도로 구현**  
- 정렬 기준을 변경하기 위해 정렬대상에게 Comparable 인터페이스의 compareTo(Object obj) 를 구현한다. 해당 메서드에서 비교 대상의 개체가 인수로 전달되는 개체보다 작거나 같은지 또는 큰지 여부를 나타내는 숫자를 반환
+ 정렬 기준을 변경하기 위해 정렬대상에게 Comparable 인터페이스의 compareTo(Object obj) 를 구현한다. 해당 메서드에서 비교 대상의 개체가 인수로 전달되는 개체보다 작거나 같은지 또는 큰지 여부를 나타내는 숫자로 반환한다.
  
 ### 코드
 ```java
@@ -66,6 +66,6 @@ public class Player implements Comparable<Player> {
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTcwODE4NTcsMTI3MDUzNzI4OSw1NT
+eyJoaXN0b3J5IjpbLTE0MTkyMTU2MzEsMTI3MDUzNzI4OSw1NT
 Y5ODA2MjldfQ==
 -->
