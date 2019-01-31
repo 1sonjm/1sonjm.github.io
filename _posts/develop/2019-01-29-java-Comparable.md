@@ -42,7 +42,9 @@ public class Player {
 
 ## Comparable
 ### 정의
-**구현되는 클래스의 기본 정렬기준을 별도로 구현**
+**구현되는 클래스의 기본 정렬기준을 별도로 구현**  
+ 정렬 기준을 변경하기 위해 정렬대상에게 Comparable 인터페이스를 구현하도록 설정해야한다.
+ 
 ### 코드
 ```java
 public class Player implements Comparable<Player> {
@@ -64,5 +66,6 @@ public class Player implements Comparable<Player> {
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDUzNzI4OSw1NTY5ODA2MjldfQ==
+eyJoaXN0b3J5IjpbLTQ1MjQ0NjUyMSwxMjcwNTM3Mjg5LDU1Nj
+k4MDYyOV19
 -->
