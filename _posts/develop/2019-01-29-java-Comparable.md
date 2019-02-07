@@ -65,11 +65,19 @@ public class Player implements Comparable<Player> {
 ### 정의
 기존에 Comparable의 compareTo로 구현된 것이 아닌 별도의 정렬기준을 적용할때
 ### 코드
+```java
+Collections.sort(footballTeam,  new Comparator<Point>() {
+	  @Override
+	  public int compare(Point p1, Point p2) { 위와 동일 }
+	};
+);
+```
 
 # 참조
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwNDM1NTE0LC0xOTU1MzE3MjQsLTE0MT
-kyMTU2MzEsMTI3MDUzNzI4OSw1NTY5ODA2MjldfQ==
+eyJoaXN0b3J5IjpbLTE2OTczMjE3ODUsMjkwNDM1NTE0LC0xOT
+U1MzE3MjQsLTE0MTkyMTU2MzEsMTI3MDUzNzI4OSw1NTY5ODA2
+MjldfQ==
 -->
