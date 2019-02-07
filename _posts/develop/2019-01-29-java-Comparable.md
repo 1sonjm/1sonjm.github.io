@@ -76,14 +76,14 @@ Collections.sort(playerList, new Comparator<Player>(){
 ```
 Lambda 사용시
 ```java
-Arrays.sort(playerList,(firstPlayer, secondPlayer) -> firstPlayer.getRanking() - secondPlayer.getRanking());
+Collections.sort(playerList,(firstPlayer, secondPlayer) -> firstPlayer.getRanking() - secondPlayer.getRanking());
 ```
 
 # 참조
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTU1MTExNCwyOTA0MzU1MTQsLTE5NT
-UzMTcyNCwtMTQxOTIxNTYzMSwxMjcwNTM3Mjg5LDU1Njk4MDYy
-OV19
+eyJoaXN0b3J5IjpbMTY4MzgzNjM1NSwxMzA1NTUxMTE0LDI5MD
+QzNTUxNCwtMTk1NTMxNzI0LC0xNDE5MjE1NjMxLDEyNzA1Mzcy
+ODksNTU2OTgwNjI5XX0=
 -->
