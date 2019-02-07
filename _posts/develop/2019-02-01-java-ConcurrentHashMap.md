@@ -15,16 +15,19 @@ header:
 # 핵심
 Thread-Safe 한 HashMap. null값을 허용하지 않음.
 
-putIfAbsent(K,  V) 메소드가 존재
+putIfAbsent(K,  V) 메소드가 존재. 대상 key 존재시, 설깆
 ```java
 ConcurrentHashMap<String, Integer> chm = new ConcurrentHashMap<>();
 chm.put("key1", 0);
+// 존재하는 key1 에 대하여 기존값인 0 사용
 chm.putIfAbsent("key1",  1);
+
+// 존재하지않는 key2 에 대하여 설정값인 -1 사용
 chm.putIfAbsent("key2",  -1);
 ```
 
 프로젝트 개발중에 netty channel을 생성한걸 관리하는 맵으로 사용되고 있었다. 추가 정리해야되겠다
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTY3MzM0NiwtOTk2MTIyOTQ0LDEwND
-kxMjkxLC0yMDg1Njg3ODY0XX0=
+eyJoaXN0b3J5IjpbOTY3Mjc0NDgyLC05OTYxMjI5NDQsMTA0OT
+EyOTEsLTIwODU2ODc4NjRdfQ==
 -->
