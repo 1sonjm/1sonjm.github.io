@@ -65,9 +65,8 @@ public class Player implements Comparable<Player> {
 ### 정의
 기존에 Comparable의 compareTo로 구현된 것이 아닌 별도의 정렬기준을 적용할때
 ### 코드
+익명 클래스로 선언하여 사용편리
 ```java
-Arrays.sort(playerList,(num1, num2) -> (num2+num1).compareTo(num1+num2));
-
 Collections.sort(playerList, new Comparator<Player>(){
     @Override
     public int compare(Player firstPlayer,Player secondPlayer){
@@ -76,11 +75,15 @@ Collections.sort(playerList, new Comparator<Player>(){
 });
 ```
 
+```java
+Arrays.sort(playerList,(num1, num2) -> (num2+num1).compareTo(num1+num2));
+```
+
 # 참조
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTQyODkzLDI5MDQzNTUxNCwtMTk1NT
-MxNzI0LC0xNDE5MjE1NjMxLDEyNzA1MzcyODksNTU2OTgwNjI5
-XX0=
+eyJoaXN0b3J5IjpbMTY2NjY0MzcyOCwyOTA0MzU1MTQsLTE5NT
+UzMTcyNCwtMTQxOTIxNTYzMSwxMjcwNTM3Mjg5LDU1Njk4MDYy
+OV19
 -->
