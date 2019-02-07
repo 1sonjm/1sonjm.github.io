@@ -68,11 +68,10 @@ public class Player implements Comparable<Player> {
 ```java
 Arrays.sort(playerList,(num1, num2) -> (num2+num1).compareTo(num1+num2));
 
-Collections.sort(playerList, new Comparator<String>(){
+Collections.sort(playerList, new Comparator<Player>(){
     @Override
-    public int compare(String num1,String num2){
-        System.out.println("num1:"+num1+" / num2:"+num2);
-        return (num2+num1).compareTo(num1+num2);
+    public int compare(Player firstPlayer,Player secondPlayer){
+        return (firstPlayer.getRanking() - secondPlayer.getRanking());
     }
 });
 ```
@@ -81,7 +80,7 @@ Collections.sort(playerList, new Comparator<String>(){
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE3ODY4NTYsMjkwNDM1NTE0LC0xOT
-U1MzE3MjQsLTE0MTkyMTU2MzEsMTI3MDUzNzI4OSw1NTY5ODA2
-MjldfQ==
+eyJoaXN0b3J5IjpbLTUwMTQyODkzLDI5MDQzNTUxNCwtMTk1NT
+MxNzI0LC0xNDE5MjE1NjMxLDEyNzA1MzcyODksNTU2OTgwNjI5
+XX0=
 -->
