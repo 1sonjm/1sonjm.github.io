@@ -74,16 +74,16 @@ Collections.sort(playerList, new Comparator<Player>(){
     }
 });
 ```
-
+java8 이상 
 ```java
-Arrays.sort(playerList,(num1, num2) -> (num2+num1).compareTo(num1+num2));
+Arrays.sort(playerList,(firstPlayer, secondPlayer) -> firstPlayer.getRanking() - secondPlayer.getRanking());
 ```
 
 # 참조
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjY0MzcyOCwyOTA0MzU1MTQsLTE5NT
-UzMTcyNCwtMTQxOTIxNTYzMSwxMjcwNTM3Mjg5LDU1Njk4MDYy
-OV19
+eyJoaXN0b3J5IjpbMzg5MjI0MjMzLDI5MDQzNTUxNCwtMTk1NT
+MxNzI0LC0xNDE5MjE1NjMxLDEyNzA1MzcyODksNTU2OTgwNjI5
+XX0=
 -->
