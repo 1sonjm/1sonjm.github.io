@@ -74,7 +74,7 @@ Collections.sort(playerList, new Comparator<Player>(){
     }
 });
 ```
-java8 이상 
+Lambda 사용시
 ```java
 Arrays.sort(playerList,(firstPlayer, secondPlayer) -> firstPlayer.getRanking() - secondPlayer.getRanking());
 ```
@@ -83,7 +83,7 @@ Arrays.sort(playerList,(firstPlayer, secondPlayer) -> firstPlayer.getRanking() -
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5MjI0MjMzLDI5MDQzNTUxNCwtMTk1NT
-MxNzI0LC0xNDE5MjE1NjMxLDEyNzA1MzcyODksNTU2OTgwNjI5
-XX0=
+eyJoaXN0b3J5IjpbMTMwNTU1MTExNCwyOTA0MzU1MTQsLTE5NT
+UzMTcyNCwtMTQxOTIxNTYzMSwxMjcwNTM3Mjg5LDU1Njk4MDYy
+OV19
 -->
