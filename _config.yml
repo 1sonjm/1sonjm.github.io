@@ -232,6 +232,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-mermaid
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -241,6 +242,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-mermaid
 
 
 # Archives
@@ -279,6 +281,9 @@ compress_html:
   ignore:
     envs: development
 
+# mermaid
+mermaid:
+  src: 'path/to/mermaid.js'
 
 # Defaults
 defaults:
