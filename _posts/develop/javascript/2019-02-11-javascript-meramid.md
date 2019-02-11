@@ -6,6 +6,7 @@ categories:
 tags:
 -   javascript
 -   api
+-  diagram
 header:  
     actions:
     -   label: GitHub
@@ -51,5 +52,6 @@ mermaid.initialize(config);
 window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzODA3OTc4LC04NjU5NDM3ODBdfQ==
+eyJoaXN0b3J5IjpbLTE0MDcxNzE5MDIsNzgzODA3OTc4LC04Nj
+U5NDM3ODBdfQ==
 -->
