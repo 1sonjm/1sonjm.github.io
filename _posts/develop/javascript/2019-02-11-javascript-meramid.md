@@ -66,12 +66,13 @@ mermaid.initialize({ startOnLoad:true, theme: 'forest' });
 window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 ```
 
-현재 이 블로그에서 위와 같은 설정을 통해 markdown 방식으로
+현재 이 블로그에서 위와 같은 설정을 통해 markdown 방식으로 아래와 같은 형태로 사용 가능
+> \```mermaid
+> sequenceDiagram
+>    Alice->>John: Hello John, how are you?
 > \```
-> \```
->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzMTQ2OTUyLC0zOTYxMzk1NzcsLTEyMj
-EzNzg3OTEsLTgzMzgwNTc1NSwtMTg5ODYwMTMyMywtMTQwNzE3
-MTkwMiw3ODM4MDc5NzgsLTg2NTk0Mzc4MF19
+eyJoaXN0b3J5IjpbLTU5MDc0MzY4MiwtMzk2MTM5NTc3LC0xMj
+IxMzc4NzkxLC04MzM4MDU3NTUsLTE4OTg2MDEzMjMsLTE0MDcx
+NzE5MDIsNzgzODA3OTc4LC04NjU5NDM3ODBdfQ==
 -->
