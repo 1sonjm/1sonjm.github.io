@@ -1,4 +1,4 @@
-----------
+---
 title: “javascript / API/ mermaid”  
 search: true  
 categories:
@@ -13,11 +13,11 @@ tags:
     -   label: “Document”  
         url: “https://mermaidjs.github.io/”
 
-----------
+---
 
 # mermaid
 markdown 기반 flow chart, sequence / class diagram, gantt chart, git graph 등을 표현할 수 있는 API
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2NDE1MDA3XX0=
+eyJoaXN0b3J5IjpbLTE0ODE2NjM3OV19
 -->
