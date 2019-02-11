@@ -40,19 +40,11 @@ sequenceDiagram
 ```
 
 <script>
-
-var config = {
-    startOnLoad:true,
-    theme: 'forest',
-    flowchart:{
-        useMaxWidth:false,
-        htmlLabels:true
-    }
-};
-mermaid.initialize({ startOnLoad:true });
+mermaid.initialize({ startOnLoad:true, theme: 'forest' });
 window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzgwNTc1NSwtMTg5ODYwMTMyMywtMT
-QwNzE3MTkwMiw3ODM4MDc5NzgsLTg2NTk0Mzc4MF19
+eyJoaXN0b3J5IjpbLTE0NTQyNjIxMjcsLTgzMzgwNTc1NSwtMT
+g5ODYwMTMyMywtMTQwNzE3MTkwMiw3ODM4MDc5NzgsLTg2NTk0
+Mzc4MF19
 -->
