@@ -1,5 +1,5 @@
 ---
-title: "java / API / Comparable, Comparator"
+title: java / API / Comparable, Comparator
 search: true
 categories: 
   - api
@@ -8,7 +8,7 @@ tags:
   - java
 header:  
   actions:
-    - label: "java api"
+    - label: java api
       url: "https://docs.oracle.com/javase/8/docs/api/?java/util/Comparator.html"
 ---
 
@@ -83,5 +83,5 @@ Collections.sort(playerList,(firstPlayer, secondPlayer) -> firstPlayer.getRankin
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzgzNjM1NV19
+eyJoaXN0b3J5IjpbLTEyNTE1NTQzMTNdfQ==
 -->
