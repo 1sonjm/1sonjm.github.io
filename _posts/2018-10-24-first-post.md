@@ -31,7 +31,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 A--&gt;B
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
 <script>
 var config = {
     startOnLoad:true,
@@ -45,6 +44,7 @@ mermaid.initialize(config);
 window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc1NzgyNzUsLTQyNDEzNTA5NCwtMT
-IwMDE2MzA1OCwtMTYyMzc4NjIxNCwxOTM5OTU1NzY2XX0=
+eyJoaXN0b3J5IjpbLTExMTg0NDc4MCwtMjAyNzU3ODI3NSwtND
+I0MTM1MDk0LC0xMjAwMTYzMDU4LC0xNjIzNzg2MjE0LDE5Mzk5
+NTU3NjZdfQ==
 -->
