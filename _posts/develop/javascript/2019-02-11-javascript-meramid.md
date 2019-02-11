@@ -39,13 +39,19 @@ sequenceDiagram
     deactivate John
 </div>
 
-
+```mermaid
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    activate John
+    John-->>Alice: Great!
+    deactivate John
+```
 
 <script>
 mermaid.initialize({ startOnLoad:true });
 window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDQ5MTI3NSwtMTQwNzE3MTkwMiw3OD
-M4MDc5NzgsLTg2NTk0Mzc4MF19
+eyJoaXN0b3J5IjpbLTE4OTg2MDEzMjMsLTE0MDcxNzE5MDIsNz
+gzODA3OTc4LC04NjU5NDM3ODBdfQ==
 -->
