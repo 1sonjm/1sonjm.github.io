@@ -38,13 +38,8 @@ sequenceDiagram
     John-->>Alice: Great!
     deactivate John
 ```
-
-<script>
-mermaid.initialize({ startOnLoad:true, theme: 'forest' });
-window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-</script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQyNjIxMjcsLTgzMzgwNTc1NSwtMT
+eyJoaXN0b3J5IjpbLTEyMjEzNzg3OTEsLTgzMzgwNTc1NSwtMT
 g5ODYwMTMyMywtMTQwNzE3MTkwMiw3ODM4MDc5NzgsLTg2NTk0
 Mzc4MF19
 -->
