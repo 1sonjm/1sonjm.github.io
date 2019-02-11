@@ -67,12 +67,12 @@ window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 ```
 
 현재 이 블로그에서 위와 같은 설정을 통해 markdown 방식으로 아래와 같은 형태로 사용 가능
-> \```mermaid
+> \`\`\`mermaid
 > sequenceDiagram
 >    Alice->>John: Hello John, how are you?
 > \```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDc0MzY4MiwtMzk2MTM5NTc3LC0xMj
-IxMzc4NzkxLC04MzM4MDU3NTUsLTE4OTg2MDEzMjMsLTE0MDcx
-NzE5MDIsNzgzODA3OTc4LC04NjU5NDM3ODBdfQ==
+eyJoaXN0b3J5IjpbLTIwNjExNDg1NDYsLTM5NjEzOTU3NywtMT
+IyMTM3ODc5MSwtODMzODA1NzU1LC0xODk4NjAxMzIzLC0xNDA3
+MTcxOTAyLDc4MzgwNzk3OCwtODY1OTQzNzgwXX0=
 -->
