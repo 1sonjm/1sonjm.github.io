@@ -283,7 +283,7 @@ compress_html:
 
 # mermaid
 mermaid:
-  src: 'path/to/mermaid.js'
+  src: '/assets/js/mermaid.js'
 
 # Defaults
 defaults:
