@@ -16,8 +16,8 @@ tags:
 ----------
 
 # mermaid
-markdown 기반 flowchart, sequence / class diagram, 
+markdown 기반 flow chart, sequence / class diagram, gantt chart, git graph 등을 표현할 수 있는 API
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMTA3NjM0XX0=
+eyJoaXN0b3J5IjpbNzk2NDE1MDA3XX0=
 -->
