@@ -70,9 +70,9 @@ window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 > \`\`\`mermaid
 > sequenceDiagram
 >    Alice->>John: Hello John, how are you?
-> \```
+> \`\`\`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjExNDg1NDYsLTM5NjEzOTU3NywtMT
-IyMTM3ODc5MSwtODMzODA1NzU1LC0xODk4NjAxMzIzLC0xNDA3
-MTcxOTAyLDc4MzgwNzk3OCwtODY1OTQzNzgwXX0=
+eyJoaXN0b3J5IjpbNzM4MzY4NjM4LC0zOTYxMzk1NzcsLTEyMj
+EzNzg3OTEsLTgzMzgwNTc1NSwtMTg5ODYwMTMyMywtMTQwNzE3
+MTkwMiw3ODM4MDc5NzgsLTg2NTk0Mzc4MF19
 -->
