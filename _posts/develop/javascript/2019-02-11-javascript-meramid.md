@@ -58,8 +58,20 @@ gantt
         Create tests for renderer           :2d
         Add to mermaid                      :1d
 ```
+
+# Blog Setting
+
+```javascript
+mermaid.initialize({ startOnLoad:true, theme: 'forest' });
+window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+```
+
+현재 이 블로그에서 위와 같은 설정을 통해 markdown 방식으로
+> \```
+> \```
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjEzOTU3NywtMTIyMTM3ODc5MSwtOD
-MzODA1NzU1LC0xODk4NjAxMzIzLC0xNDA3MTcxOTAyLDc4Mzgw
-Nzk3OCwtODY1OTQzNzgwXX0=
+eyJoaXN0b3J5IjpbNzMzMTQ2OTUyLC0zOTYxMzk1NzcsLTEyMj
+EzNzg3OTEsLTgzMzgwNTc1NSwtMTg5ODYwMTMyMywtMTQwNzE3
+MTkwMiw3ODM4MDc5NzgsLTg2NTk0Mzc4MF19
 -->
