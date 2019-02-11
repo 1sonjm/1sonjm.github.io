@@ -26,7 +26,25 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<div class="mermaid">graph LR
+A--&gt;B
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+<script>
+var config = {
+    startOnLoad:true,
+    theme: 'forest',
+    flowchart:{
+        useMaxWidth:false,
+        htmlLabels:true
+    }
+};
+mermaid.initialize(config);
+window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+</script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTMxOTc4MSwtNDI0MTM1MDk0LC0xMj
-AwMTYzMDU4LC0xNjIzNzg2MjE0LDE5Mzk5NTU3NjZdfQ==
+eyJoaXN0b3J5IjpbLTIwMjc1NzgyNzUsLTQyNDEzNTA5NCwtMT
+IwMDE2MzA1OCwtMTYyMzc4NjIxNCwxOTM5OTU1NzY2XX0=
 -->
