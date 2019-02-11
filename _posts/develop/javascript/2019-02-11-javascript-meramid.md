@@ -39,19 +39,13 @@ sequenceDiagram
     deactivate John
 </div>
 
+
+
 <script>
-var config = {
-    startOnLoad:true,
-    theme: 'forest',
-    flowchart:{
-        useMaxWidth:false,
-        htmlLabels:true
-    }
-};
-mermaid.initialize(config);
+mermaid.initialize({ startOnLoad:true });
 window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDcxNzE5MDIsNzgzODA3OTc4LC04Nj
-U5NDM3ODBdfQ==
+eyJoaXN0b3J5IjpbMTA1MDQ5MTI3NSwtMTQwNzE3MTkwMiw3OD
+M4MDc5NzgsLTg2NTk0Mzc4MF19
 -->
