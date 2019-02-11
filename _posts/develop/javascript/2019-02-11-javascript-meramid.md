@@ -16,8 +16,8 @@ tags:
 ----------
 
 # mermaid
-
+markdown 기반 flowchart, sequence / class diagram, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjUwNTQ2XX0=
+eyJoaXN0b3J5IjpbNDYxMTA3NjM0XX0=
 -->
