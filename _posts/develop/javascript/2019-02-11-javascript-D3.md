@@ -1,4 +1,4 @@
-----------
+---
 title: “javascript / API/ D3”  
 search: true  
 categories:
@@ -11,7 +11,7 @@ tags:
     -   label: “GitHub”  
         url: “https://github.com/d3/d3”
 
-----------
+---
 
 # D3
 D3(**D**ata-**D**riven **D**ocuments).js는 은 웹 표준을 사용하여 데이터를 시각화하는 JavaScript 라이브러리입니다. SVG, Canvas 및 HTML을 사용하여 데이터를 실제로 사용할 수 있도록 도와줍니다. 강력한 시각화 및 상호 작용 기술과 DOM 조작에 대한 데이터 중심 접근 방식을 결합하여 최신 브라우저의 모든 기능을 제공하고 데이터에 적합한 시각적 인터페이스를 자유롭게 설계 할 수 있습니다.
@@ -54,5 +54,5 @@ D3(**D**ata-**D**riven **D**ocuments).js는 은 웹 표준을 사용하여 데�
 ## Gallery
 [Gallery](https://github.com/d3/d3/wiki/Gallery) 에서 데이터들을 정렬한 방식들을 확인할 수 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMyMDk3NTRdfQ==
+eyJoaXN0b3J5IjpbMTkyNDU5MjMyNl19
 -->
