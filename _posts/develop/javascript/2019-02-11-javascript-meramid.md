@@ -20,14 +20,13 @@ markdown 기반 flow chart, sequence / class diagram, gantt chart, git graph 등
 
 ## Flowchart [#](https://mermaidjs.github.io/flowchart.html)
 
-```
+<div class="mermaid">
 graph LR
     A[Hard edge] -->|Link text| B(Round edge)
     B --> C{Decision}
     C -->|One| D[Result one]
     C -->|Two| E[Result two]
-
-```
+</div>
 
 ## Sequence Diagram[#](https://mermaidjs.github.io/sequenceDiagram.html)
 
@@ -52,5 +51,5 @@ mermaid.initialize(config);
 window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0NDY2MzcsLTg2NTk0Mzc4MF19
+eyJoaXN0b3J5IjpbNzgzODA3OTc4LC04NjU5NDM3ODBdfQ==
 -->
