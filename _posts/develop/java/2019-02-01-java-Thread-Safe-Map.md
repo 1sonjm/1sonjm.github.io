@@ -1,5 +1,5 @@
 ---
-title: "java / API / Thread-Safe Map"
+title: java / API / Thread-Safe Map
 search: true
 categories: 
   - api
@@ -8,7 +8,7 @@ tags:
   - java
 header:  
   actions:
-    - label: "java api"
+    - label: java api
       url: "https://docs.oracle.com/javase/8/docs/api/?java/util/Comparator.html"
 ---
 
@@ -35,5 +35,5 @@ Collections.synchronizedMap(new  HashMap<Long, String>());
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTE0OTg4NV19
+eyJoaXN0b3J5IjpbLTM1NzkwMTE0N119
 -->
