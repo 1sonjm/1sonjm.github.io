@@ -3,7 +3,7 @@ title: “javascript / API/ mermaid”
 search: true  
 categories:
 -   javascript
-    tags:
+tags:
 -   javascript
 -   api
     header:  
@@ -19,5 +19,5 @@ categories:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mzg1Mjk0XX0=
+eyJoaXN0b3J5IjpbMTI5MjUwNTQ2XX0=
 -->
