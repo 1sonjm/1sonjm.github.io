@@ -1,5 +1,5 @@
 ---
-title: javascript / API/ mermaid
+title: javascript / API / mermaid
 search: true  
 categories:
 -   javascript
@@ -18,5 +18,5 @@ header:
 markdown 기반 flow chart, sequence / class diagram, gantt chart, git graph 등을 표현할 수 있는 API
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzU2MTc0ODJdfQ==
+eyJoaXN0b3J5IjpbLTg2NTk0Mzc4MF19
 -->
