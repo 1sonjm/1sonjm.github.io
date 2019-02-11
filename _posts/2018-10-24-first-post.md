@@ -32,6 +32,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
+{% mermaid %}
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+{% endmermaid %}
+
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -54,6 +62,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAxNjMwNTgsLTE2MjM3ODYyMTQsMT
-kzOTk1NTc2Nl19
+eyJoaXN0b3J5IjpbLTQyNDEzNTA5NCwtMTIwMDE2MzA1OCwtMT
+YyMzc4NjIxNCwxOTM5OTU1NzY2XX0=
 -->
