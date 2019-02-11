@@ -17,6 +17,12 @@ header:
 # mermaid
 markdown 기반 flow chart, sequence / class diagram, gantt chart, git graph 등을 표현할 수 있는 API
 
+
+## Flowchart [#](https://mermaidjs.github.io/flowchart.html)
+
+
+
+## Sequence Diagram[#](https://mermaidjs.github.io/sequenceDiagram.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTk0Mzc4MF19
+eyJoaXN0b3J5IjpbOTExOTQ5ODM0LC04NjU5NDM3ODBdfQ==
 -->
