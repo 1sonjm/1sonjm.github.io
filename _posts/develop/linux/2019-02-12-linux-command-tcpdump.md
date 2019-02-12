@@ -30,8 +30,8 @@ header:
 주로 사용하는 것만 정리
 
 - **-w** filename
-dump기록을  
+dump기록을 콘솔이 아닌 파일형태로 저장 
 - ㅁ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI5ODc0NTBdfQ==
+eyJoaXN0b3J5IjpbMjE5OTAxODJdfQ==
 -->
