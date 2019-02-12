@@ -8,7 +8,7 @@ tags:
 ---
 
 # Analytics
-** 애널리틱스**는 데이터의 의미있는 패턴을 발견, 해석 및 전달합니다. 효과적인 의사 결정을 위해 이러한 패턴을 적용하는 과정이며 성능을 수치화하기 위해 통계, 컴퓨터 프로그래밍 및 운영 연구의 동시 적용에 의존합니다.
+**애널리틱스**는 데이터의 의미있는 패턴을 발견, 해석 및 전달합니다. 효과적인 의사 결정을 위해 이러한 패턴을 적용하는 과정이며 성능을 수치화하기 위해 통계, 컴퓨터 프로그래밍 및 운영 연구의 동시 적용에 의존합니다.
 
 # Google Analytics
 
@@ -26,6 +26,7 @@ Jekyll 에 Google analytics 를 적용하려면 [이곳](https://analytics.googl
 현재 실시간만 확인이 되는데 다른것도 알아봐야 되겠다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODk4NzM4LDI3MzcxNjA5LC00MzIzNT
-M5MDcsLTE3MzI5NzI5NjksNjc1MDc5NDUxXX0=
+eyJoaXN0b3J5IjpbLTIwMjM4NjkwMzAsLTI2ODk4NzM4LDI3Mz
+cxNjA5LC00MzIzNTM5MDcsLTE3MzI5NzI5NjksNjc1MDc5NDUx
+XX0=
 -->
