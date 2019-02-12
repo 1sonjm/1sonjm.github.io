@@ -13,6 +13,7 @@ header:
         url: https://ko.wikipedia.org/wiki/Tcpdump
 ---
 # tcpdump
+네트워크 인터페이스를 통해 오가는 패킷 정보들을 로그정보로 얻어내기위해 사용
 
 ## 사용법
 >**tcpdump** [ options] [ 'expression' ] [host]
@@ -46,6 +47,7 @@ _expression_ and _expression_  의 형태로 조합가능
 > tcpdump src port 3389 => src 포트가 3389인 것.  
 > tcpdump dst port 3389 => dst 포트가 3389인 것.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMzg2Njk1LDgzMDA1OTU5NywtMTQ0OT
-UwOTAyNiwxNzEyODg3MjczLC02NTY3NTc3MzldfQ==
+eyJoaXN0b3J5IjpbLTIwNTg0MzM4MjMsNTExMzg2Njk1LDgzMD
+A1OTU5NywtMTQ0OTUwOTAyNiwxNzEyODg3MjczLC02NTY3NTc3
+MzldfQ==
 -->
