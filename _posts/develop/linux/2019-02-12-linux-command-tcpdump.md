@@ -27,11 +27,12 @@ header:
 >[ _expression_ ]
 
 ## OPTION
-주로 사용하는 것만 정리
+자주 사용될만한 것만 정리
 
 - **-w** filename
-dump기록을 콘솔이 아닌 파일형태로 저장 
-- ㅁ
+dump기록을 콘솔이 아닌 파일형태로 저장. 기록이 끝난뒤 파일로 저장
+- **-U**  
+저장 시, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5OTAxODJdfQ==
+eyJoaXN0b3J5IjpbMjA0NDQyMzkyNV19
 -->
