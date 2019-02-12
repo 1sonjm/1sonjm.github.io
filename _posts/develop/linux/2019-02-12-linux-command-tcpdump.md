@@ -34,15 +34,18 @@ dump기록을 콘솔이 아닌 파일형태로 저장. 기록이 끝난뒤 파�
 지정한 수만큼 반복됩니다.
 
 ## expression [#](https://www.tcpdump.org/manpages/pcap-filter.7.html)
+_expression_ and _expression_  의 형태로 조합가능
 
-tcpdump host 192.168.0.1 => host 를 지정하면, 이 ip 로 들어오거가 나가는 양방향 패킷 모두 보여줌  
-tcpdump src 192.168.0.1 => host 중에서 src 가 192.168.0.1인것 만 지정  
-tcpdump dst 192.168.0.1 => host 중에서 dst 가 192.168.0.1인것 만 지정  
-tcpdump net 192.168.0.1/24 => CIDR 포맷으로 지정할 수 있다.  
-tcpdump tcp => TCP 인것만  
-tcpdump udp => UDP 인것만  
-tcpdump port 3389 => 포트 양뱡항으로 3389인 것.
+> tcpdump host 192.168.0.1 => host 를 지정하면, 이 ip 로 들어오거가 나가는 양방향 패킷 모두 보여줌  
+> tcpdump src 192.168.0.1 => host 중에서 src 가 192.168.0.1인것 만 지정  
+> tcpdump dst 192.168.0.1 => host 중에서 dst 가 192.168.0.1인것 만 지정  
+> tcpdump net 192.168.0.1/24 => CIDR 포맷으로 지정할 수 있다.  
+> tcpdump tcp => TCP 인것만  
+> tcpdump udp => UDP 인것만  
+> tcpdump port 3389 => 포트 양뱡항으로 3389인 것.  
+> tcpdump src port 3389 => src 포트가 3389인 것.  
+> tcpdump dst port 3389 => dst 포트가 3389인 것.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwMDU5NTk3LC0xNDQ5NTA5MDI2LDE3MT
-I4ODcyNzMsLTY1Njc1NzczOV19
+eyJoaXN0b3J5IjpbNTExMzg2Njk1LDgzMDA1OTU5NywtMTQ0OT
+UwOTAyNiwxNzEyODg3MjczLC02NTY3NTc3MzldfQ==
 -->
