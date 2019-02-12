@@ -16,7 +16,9 @@ tags:
 # Blog Setting
 
 <img src="https://i.imgur.com/L9Ne6uO.png" height="" alt="packet loss percentage">
-<blockquote class="imgur-embed-pub" lang="en" data-id="7SiYr3E"><a href="//imgur.com/7SiYr3E">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/7SiYr3E.png" height="" alt="packet loss percentage">
+<img src="https://i.imgur.com/fEOv4RZ.png" height="" alt="packet loss percentage">
+<img src="https://i.imgur.com/onWJhzF.png" height="" alt="packet loss percentage">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjM0ODc2OSw2NzUwNzk0NTFdfQ==
+eyJoaXN0b3J5IjpbLTExODM4ODg1NzksNjc1MDc5NDUxXX0=
 -->
