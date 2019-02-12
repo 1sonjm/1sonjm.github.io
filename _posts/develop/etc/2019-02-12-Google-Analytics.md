@@ -13,7 +13,7 @@ tags:
 # Google Analytics
 
 
-# Blog
+# Blog Setting
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDQ4ODY2MV19
+eyJoaXN0b3J5IjpbNjc1MDc5NDUxXX0=
 -->
