@@ -1,5 +1,5 @@
 ---
-title: Linux / command / tcpdump
+title: Linux / command / timeout
 categories: 
   - 학습
 tags: 
@@ -10,8 +10,8 @@ header:
     -   label: Document
         url: https://linux.die.net/man/1/timeout
 ---
-# tcpdump
+# timeout
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI5ODYzN119
+eyJoaXN0b3J5IjpbMTE1ODc1NjA1OV19
 -->
