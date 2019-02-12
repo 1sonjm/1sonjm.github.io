@@ -2,7 +2,7 @@
 title: java / API / Thread-Safe Map
 search: true
 categories: 
-  - api
+  - java
 tags: 
   - api
   - java
@@ -35,5 +35,5 @@ Collections.synchronizedMap(new  HashMap<Long, String>());
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzkwMTE0N119
+eyJoaXN0b3J5IjpbOTczOTM3NTQ1XX0=
 -->
