@@ -1,6 +1,5 @@
 ---
-title: "알고리즘 / 버킷정렬"
-search: true
+title: 알고리즘 / 버킷정렬
 categories: 
   - algorithm
 tags: 
@@ -47,5 +46,5 @@ public void bucketSort(int[] numbers) {
 코드는 해당 풀이에서 가져왔는데 아마 더 나은 예시코드 가 있지않을까? 
 사실 알게 모르게 다양한 정렬을 쓰고있을 것 이다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDA5MzE4OTBdfQ==
+eyJoaXN0b3J5IjpbLTMyMjE4Nzg0LC0xOTQwOTMxODkwXX0=
 -->
