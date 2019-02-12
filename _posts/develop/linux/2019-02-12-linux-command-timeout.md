@@ -18,7 +18,10 @@ header:
 > **timeout** [OPTION]
 
 ### NUMBER[SUFFIX]
-실행하고자 하는 시간 입력. 기본다
+실행하고자 하는 시간 입력. 기본 단위는 초(sec).
+분은 m, 시간은 h로 사용한다
+> timeout 3m  3 분
+> timeout 1h  1시간
 
 ### [OPTION]
 - -s, --signal=SIGNAL
@@ -29,5 +32,5 @@ display this help and exit
 - --version
 output version information and exit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDY2OTk1XX0=
+eyJoaXN0b3J5IjpbLTEzNzMyMzY0MTZdfQ==
 -->
