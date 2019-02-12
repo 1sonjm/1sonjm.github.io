@@ -44,9 +44,9 @@ dump기록을 콘솔이 아닌 파일형태로 저장. 기록이 끝난뒤 파�
 - **-c** _count_
 지정한 수만큼 반복됩니다.
 
-## expression
+## expression #
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNTg1MTMwLC0xNDQ5NTA5MDI2LDE3MT
+eyJoaXN0b3J5IjpbNjA4MTY3Njg3LC0xNDQ5NTA5MDI2LDE3MT
 I4ODcyNzMsLTY1Njc1NzczOV19
 -->
