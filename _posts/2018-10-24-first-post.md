@@ -1,5 +1,5 @@
 ---
-title: "title name"
+title: "exmaple"
 search: true
 categories: 
   - Jekyll
@@ -27,7 +27,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTMxOTc4MSwtMTExODQ0NzgwLC0yMD
-I3NTc4Mjc1LC00MjQxMzUwOTQsLTEyMDAxNjMwNTgsLTE2MjM3
-ODYyMTQsMTkzOTk1NTc2Nl19
+eyJoaXN0b3J5IjpbOTcyMTU4MzMyLC0xMTE4NDQ3ODAsLTIwMj
+c1NzgyNzUsLTQyNDEzNTA5NCwtMTIwMDE2MzA1OCwtMTYyMzc4
+NjIxNCwxOTM5OTU1NzY2XX0=
 -->
