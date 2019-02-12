@@ -27,7 +27,7 @@ header:
 >[ _expression_ ]
 
 ## OPTION
-- **-w** filename
+- **-w** _filename_
 dump기록을 콘솔이 아닌 파일형태로 저장. 기록이 끝난뒤 파일로 저장
 - **-U**  
 저장 시, 버퍼에 
@@ -37,6 +37,8 @@ dump기록을 콘솔이 아닌 파일형태로 저장. 기록이 끝난뒤 파�
 더 자세한 출력. 예를 들어 추가 필드는 NFS 응답 패킷에서 인쇄되고 SMB 패킷은 완전히 디코딩됩니다.
 **-vvv**
 - 더 자세한 출력. 예를 들어 telnet **SB** ... **SE** 옵션이 모두 인쇄됩니다. 함께 **-X** 텔넷 옵션뿐만 아니라 진수로 인쇄됩니다.
+- **-G** _rotate_seconds_
+일정 주기로 반복하여 dump 기록 작성
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Njc1NzczOV19
+eyJoaXN0b3J5IjpbLTEwMzU4NDU5MTgsLTY1Njc1NzczOV19
 -->
