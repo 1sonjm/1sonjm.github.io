@@ -5,9 +5,13 @@ categories:
 tags: 
   - linux
   - command
+header:  
+    actions:
+    -   label: Document
+        url: https://www.tcpdump.org/manpages/tcpdump.1.html
 ---
-# tcpdump[d oc](https://www.tcpdump.org/manpages/tcpdump.1.html)
+# tcpdump
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYxMTQ1NjhdfQ==
+eyJoaXN0b3J5IjpbMzU5MTg2MzI2XX0=
 -->
