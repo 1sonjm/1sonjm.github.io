@@ -1,6 +1,5 @@
 ---
 title: javascript / API / mermaid
-search: true  
 categories:
 -   javascript
 tags:
@@ -72,7 +71,8 @@ window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 >    Alice->>John: Hello John, how are you?  
 > \`\`\`  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc3OTc3NjIsLTM5NjEzOTU3NywtMT
-IyMTM3ODc5MSwtODMzODA1NzU1LC0xODk4NjAxMzIzLC0xNDA3
-MTcxOTAyLDc4MzgwNzk3OCwtODY1OTQzNzgwXX0=
+eyJoaXN0b3J5IjpbMjAyMjkxNDU3NiwtMTA1Nzc5Nzc2MiwtMz
+k2MTM5NTc3LC0xMjIxMzc4NzkxLC04MzM4MDU3NTUsLTE4OTg2
+MDEzMjMsLTE0MDcxNzE5MDIsNzgzODA3OTc4LC04NjU5NDM3OD
+BdfQ==
 -->
