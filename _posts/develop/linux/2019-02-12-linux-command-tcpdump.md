@@ -27,6 +27,10 @@ header:
 >[ _expression_ ]
 
 ## OPTION
+주로 사용하는 것만 정리
+
+- -w
+- ㅁ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzIxMzc4XX0=
+eyJoaXN0b3J5IjpbMjgwMDUwMDc2XX0=
 -->
