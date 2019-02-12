@@ -14,7 +14,7 @@ header:
 프로세스를 설정된 시간동안 동작하도록 제한
 
 ## 사용법
-> **timeout** [OPTION] NUMBER[SUFFIX] COMMAND_ [ARG]...  
+> **timeout** [OPTION] NUMBER[SUFFIX] COMMAND [ARG]...  
 > **timeout** [OPTION]
 
 - NUMBER
@@ -26,5 +26,5 @@ display this help and exit
 - --version
 output version information and exit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjAwMDg0MDJdfQ==
+eyJoaXN0b3J5IjpbNzYzMTY1MTc3XX0=
 -->
