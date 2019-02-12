@@ -20,8 +20,8 @@ header:
 ### NUMBER[SUFFIX]
 실행하고자 하는 시간 입력. 기본 단위는 초(sec).
 분은 m, 시간은 h로 사용한다
-> timeout 3m  3 분
-> timeout 1h  1시간
+> timeout 3m  #3 분
+> timeout 1h  #1시간
 
 ### [OPTION]
 - -s, --signal=SIGNAL
@@ -31,6 +31,9 @@ SIGNAL may be a name like 'HUP' or a number. See 'kill -l' for a list of signals
 display this help and exit
 - --version
 output version information and exit
+
+### COMMAND [ARG]
+실행할 대상인 프로세스의 옵션을 포함한 구동명령
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMyMzY0MTZdfQ==
+eyJoaXN0b3J5IjpbMTU5NjczODI2NF19
 -->
