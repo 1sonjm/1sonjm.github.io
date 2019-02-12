@@ -1,6 +1,5 @@
 ---
 title: javascript / API / D3
-search: true  
 categories:
 -   javascript
 tags:
@@ -53,5 +52,5 @@ D3(**D**ata-**D**riven **D**ocuments).js는 은 웹 표준을 사용하여 데�
 ## Gallery
 [Gallery](https://github.com/d3/d3/wiki/Gallery) 에서 데이터들을 정렬한 방식들을 확인할 수 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTQ4MTg5MV19
+eyJoaXN0b3J5IjpbMTg3MDg1NTQwNywtNDU1NDgxODkxXX0=
 -->
