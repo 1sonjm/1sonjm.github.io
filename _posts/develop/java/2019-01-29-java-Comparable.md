@@ -2,7 +2,7 @@
 title: java / API / Comparable, Comparator
 search: true
 categories: 
-  - api
+  - java
 tags: 
   - api
   - java
@@ -83,5 +83,5 @@ Collections.sort(playerList,(firstPlayer, secondPlayer) -> firstPlayer.getRankin
 https://www.baeldung.com/java-comparator-comparable
 https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE1NTQzMTNdfQ==
+eyJoaXN0b3J5IjpbLTY2NzUzNTg2NV19
 -->
