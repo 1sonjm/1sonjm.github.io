@@ -1,5 +1,5 @@
 ---
-title: Linux /  tcpdump
+title: Linux / command / tcpdump
 categories: 
   - 학습
 tags: 
@@ -13,5 +13,5 @@ header:
 # tcpdump
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkxMDE3MzVdfQ==
+eyJoaXN0b3J5IjpbLTEzODI5ODYzN119
 -->
