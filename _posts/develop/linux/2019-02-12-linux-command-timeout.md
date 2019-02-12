@@ -17,7 +17,10 @@ header:
 > **timeout** [OPTION] NUMBER[SUFFIX] COMMAND [ARG]...  
 > **timeout** [OPTION]
 
-- NUMBER
+### NUMBER[SUFFIX]
+실행하고자 하는 시간 입력. 기본다
+
+### [OPTION]
 - -s, --signal=SIGNAL
 specify the signal to be sent on timeout.
 SIGNAL may be a name like 'HUP' or a number. See 'kill -l' for a list of signals
@@ -26,5 +29,5 @@ display this help and exit
 - --version
 output version information and exit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMTY1MTc3XX0=
+eyJoaXN0b3J5IjpbLTg2MDY2OTk1XX0=
 -->
