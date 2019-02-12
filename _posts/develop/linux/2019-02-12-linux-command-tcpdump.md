@@ -15,7 +15,7 @@ header:
 # tcpdump
 
 ## 사용법
->**tcpdump** [ **-AbdDefhHIJKlLnNOpqStuUvxX#** ] [ **-B**  _buffer_size_ ]  
+>**tcpdump** [ **-AbdDefhHIJKlLnNOpqStuUvxX#** ] [ **-B**  _buffer_size_ ] [' ' 
 >  
 >[ **-c**  _count_ ] [ **-C**  _file_size_ ]  
 >[ **-E**  _[spi@ipaddr](mailto:spi@ipaddr)  algo:secret,..._ ]  
@@ -44,6 +44,6 @@ dump기록을 콘솔이 아닌 파일형태로 저장. 기록이 끝난뒤 파�
 - **-c** _count_
 지정한 수만큼 반복됩니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk1MDkwMjYsMTcxMjg4NzI3MywtNj
-U2NzU3NzM5XX0=
+eyJoaXN0b3J5IjpbMzEyMDk3Mjk3LC0xNDQ5NTA5MDI2LDE3MT
+I4ODcyNzMsLTY1Njc1NzczOV19
 -->
