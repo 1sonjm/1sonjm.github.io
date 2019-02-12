@@ -29,8 +29,9 @@ header:
 ## OPTION
 주로 사용하는 것만 정리
 
-- -w
+- **-w** filename
+dump기록을  
 - ㅁ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMDUwMDc2XX0=
+eyJoaXN0b3J5IjpbLTE0OTI5ODc0NTBdfQ==
 -->
