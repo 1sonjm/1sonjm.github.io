@@ -32,9 +32,9 @@ header:
 - **-w** _filename_
 dump기록을 콘솔이 아닌 파일형태로 저장. 기록이 끝난뒤 파일로 저장
 - **-U**  
-
+버퍼가 가득찰 때 저장는 것이 아닌, 통신 발생시 파일로 저장
 - **-v**
-구문 분석 및 인쇄 할 때 (약간 더) 자세한 출력을 생성하십시오. 예를 들어 IP 패킷의 수명, 식별, 총 길이 및 옵션이 인쇄됩니다. 또한 IP 및 ICMP 헤더 체크섬 확인과 같은 추가 패킷 무결성 검사를 가능하게합니다.
+구문 분석 및 인쇄 할 때 자세한 출력을 생성. 예를 들어 IP 패킷의 수명, 식별, 총 길이 및 옵션이 인쇄됩니다. 또한 IP 및 ICMP 헤더 체크섬 확인과 같은 추가 패킷 무결성 검사를 가능하게합니다.
 - **-vv**
 더 자세한 출력. 예를 들어 추가 필드는 NFS 응답 패킷에서 인쇄되고 SMB 패킷은 완전히 디코딩됩니다.
 **-vvv**
@@ -44,6 +44,6 @@ dump기록을 콘솔이 아닌 파일형태로 저장. 기록이 끝난뒤 파�
 - **-c** _count_
 지정한 수만큼 반복됩니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0OTA5NzUsMTcxMjg4NzI3MywtNjU2Nz
-U3NzM5XX0=
+eyJoaXN0b3J5IjpbLTE0NDk1MDkwMjYsMTcxMjg4NzI3MywtNj
+U2NzU3NzM5XX0=
 -->
