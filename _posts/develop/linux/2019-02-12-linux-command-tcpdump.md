@@ -38,7 +38,8 @@ dump기록을 콘솔이 아닌 파일형태로 저장. 기록이 끝난뒤 파�
 **-vvv**
 - 더 자세한 출력. 예를 들어 telnet **SB** ... **SE** 옵션이 모두 인쇄됩니다. 함께 **-X** 텔넷 옵션뿐만 아니라 진수로 인쇄됩니다.
 - **-G** _rotate_seconds_
-일정 주기로 반복하여 dump 기록 작성
+일정 주기로 반복하여 dump 기록 작성하며, **-w**와 함께 사용하면 해당 파일로 반복해서 덮어 씌워집니다.  **-c** _count_ 지정시 _filename_._coun
+- **-c** _count_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU4NDU5MTgsLTY1Njc1NzczOV19
+eyJoaXN0b3J5IjpbLTExNTU2MDE0ODEsLTY1Njc1NzczOV19
 -->
