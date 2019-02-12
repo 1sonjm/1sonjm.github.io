@@ -32,7 +32,7 @@ header:
 - **-w** filename
 dump기록을 콘솔이 아닌 파일형태로 저장. 기록이 끝난뒤 파일로 저장
 - **-U**  
-저장 시, 
+저장 시, 버퍼에 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDQyMzkyNV19
+eyJoaXN0b3J5IjpbLTE0MzE1NTU5MjNdfQ==
 -->
