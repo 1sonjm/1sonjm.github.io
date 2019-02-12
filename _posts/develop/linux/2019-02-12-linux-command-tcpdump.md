@@ -15,18 +15,7 @@ header:
 # tcpdump
 
 ## 사용법
->**tcpdump** [ **OPTION** ] [ '_expression_' ] [host
->  
->[ **-c**  _count_ ] [ **-C**  _file_size_ ]  
->[ **-E**  _[spi@ipaddr](mailto:spi@ipaddr)  algo:secret,..._ ]  
->[ **-F**  _file_ ] [ **-G**  _rotate_seconds_ ] [ **-i**  _interface_ ]  
->[ **--immediate-mode** ] [ **-j**  _tstamp_type_ ] [ **-m**  _module_ ]  
->[ **-M**  _secret_ ] [ **--number** ] [ **--print** ] [ **-Q**  _in|out|inout_ ]  
->[ **-r**  _file_ ] [ **-s**  _snaplen_ ] [ **-T**  _type_ ] [ **--version** ]  
->[ **-V**  _file_ ] [ **-w**  _file_ ] [ **-W**  _filecount_ ] [ **-y**  _datalinktype_ ]  
->[ **-z**  _postrotate-command_ ] [ **-Z**  _user_ ]  
->[ **--time-stamp-precision=**_tstamp_precision_ ]  
->[ _expression_ ]
+>**tcpdump** [ options] [ 'expression' ] [host]
 
 ## OPTION
 - **-w** _filename_
@@ -54,6 +43,6 @@ tcpdump tcp => TCP 인것만
 tcpdump udp => UDP 인것만  
 tcpdump port 3389 => 포트 양뱡항으로 3389인 것.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTI0MTQxNSwtMTQ0OTUwOTAyNiwxNz
-EyODg3MjczLC02NTY3NTc3MzldfQ==
+eyJoaXN0b3J5IjpbODMwMDU5NTk3LC0xNDQ5NTA5MDI2LDE3MT
+I4ODcyNzMsLTY1Njc1NzczOV19
 -->
