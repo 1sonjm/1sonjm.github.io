@@ -79,8 +79,8 @@ Collections.sort(playerList,(firstPlayer, secondPlayer) -> firstPlayer.getRankin
 ```
 
 # 참조
-https://www.baeldung.com/java-comparator-comparable
-https://cwondev.tistory.com/15
+- https://www.baeldung.com/java-comparator-comparable
+- https://cwondev.tistory.com/15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwMzI4NjkzXX0=
+eyJoaXN0b3J5IjpbLTEyODM1OTQ0MTFdfQ==
 -->
