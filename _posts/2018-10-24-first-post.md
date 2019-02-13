@@ -26,9 +26,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-<img src="https://i.imgur.com/R9mFcai.png" height="" alt="alt" caption=""/>
+<img src="https://i.imgur.com/R9mFcai.png" height="" alt="alt" caption="cations"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDUyNjA3MiwtMTM1ODQ2NzM1MSwtMT
-ExODQ0NzgwLC0yMDI3NTc4Mjc1LC00MjQxMzUwOTQsLTEyMDAx
-NjMwNTgsLTE2MjM3ODYyMTQsMTkzOTk1NTc2Nl19
+eyJoaXN0b3J5IjpbLTE2NTYwNjM3NTksLTEzNTg0NjczNTEsLT
+ExMTg0NDc4MCwtMjAyNzU3ODI3NSwtNDI0MTM1MDk0LC0xMjAw
+MTYzMDU4LC0xNjIzNzg2MjE0LDE5Mzk5NTU3NjZdfQ==
 -->
