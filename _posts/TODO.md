@@ -1,7 +1,7 @@
 - [ ] etc / jenkins
 - [x] script / sass
-- [ ] network / https
+- [x] network / https
 - [ ] google analytics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzIzMTg4Nl19
+eyJoaXN0b3J5IjpbLTEzNzg4MTMzNjZdfQ==
 -->
