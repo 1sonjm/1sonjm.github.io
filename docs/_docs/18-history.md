@@ -5,8 +5,8 @@ permalink: /docs/history/
 excerpt: "Change log of enhancements and bug fixes made to the theme."
 sidebar:
   nav: docs
-last_modified_at: 2019-02-11T16:02:54-05:00
-toc: false
+last_modified_at: 2019-02-11T16:02:541-23T20:20:42-05:00
+toc: falstrue
 ---
 
 ## Unreleased
@@ -20,7 +20,10 @@ toc: false
 
 ### Bug Fixes
 
-- Fix table of contents errors with non-English chracters in the headings. [#2042](https://github.com/mmistakes/minimal-mistakes/pull/2042)
+- Fix table of contents errors with non-English chracters in the headings. [#2042](https://github.com/mmistakes/minimal-mistakes/pull/2042)Add Malayalam localized UI text strings. [#2037](https://github.com/mmistakes/minimal-mistakes/pull/2037)
+
+### Bug Fixes
+
 - Fix `site.logo` false positives. [#2026](https://github.com/mmistakes/minimal-mistakes/pull/2026#issuecomment-455770730)
 - Add empty `alt` attribute to `site.logo` image. [#2035](https://github.com/mmistakes/minimal-mistakes/pull/2035)
 
@@ -1241,3 +1244,6 @@ toc: false
 - Google Analytics, Google Authorship, webmaster verifies, and Twitter card meta are now optional.
 
 ## [1.0.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/v1.0.1)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzOTk5NzAyMzRdfQ==
+-->
