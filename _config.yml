@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "생각하는 중"
 title_separator          : "-"
 name                     : "손정만"
-description              : "번거로움을 감수하기 보단 개선하자, 가능하면"
+description              : ""
 url                      : "https://1sonjm.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "손정만"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "학습중입니다."
+  bio              : "번거로움을 감수하기 보단 개선하자, 가능하면"
   location         : "서울"
   email            :
   links:
