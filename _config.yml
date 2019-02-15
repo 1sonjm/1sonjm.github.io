@@ -242,7 +242,6 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-code-tabs
 
 
 # Archives
