@@ -20,22 +20,20 @@ CI(**C**ontinuous **I**ntegration), 지속적 통합이란 소스관리, 빌드,
 
 ### Build Tool
 Source Control에서 구성된 소스 코드를 실행 가능한 형태로 가공하며 사전에 구성된 테스트 절차를 진행하여 구성된 소스 코드의 결함을 파악한다.
+예) `Maven`, `Grade`, `Ant`
 
 ### Test Tool
 사전 구성된 테스트 코드에 따라서 일련의 검증과정을 거친다. 기능의 검증 뿐만 아니라 코드 품질에 대해서도 검증과정이 진행되는것이 좋다.
-
+예) `Junit`, `SonarQube`
 
 ## 개선을 위한
 
-
-
-## Tools
 
 ## 참조
 - http://www.nextree.co.kr/p10799/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODk2NzcxNCwtNzA0ODA3Nzg3LDEyOD
-g4MzIxMzYsMzYyMjgwNzg2LC0yMTIxMDYzMDM2XX0=
+eyJoaXN0b3J5IjpbNzA2NDM1NDUyLC03MDQ4MDc3ODcsMTI4OD
+gzMjEzNiwzNjIyODA3ODYsLTIxMjEwNjMwMzZdfQ==
 -->
