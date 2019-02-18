@@ -17,9 +17,10 @@ CI(**C**ontinuous **I**ntegration), 지속적 통합이란 소스관리, 빌드,
 소스 코드 관리 및 팀 단위 구성의 프로젝트 진행시 필수적이며 오류 수정과정을 돕습니다.
 
 ### Build Tool
-Source Control에서 구성된 소스코드를 실행 가능한 형태로 가공하며 사전에 구성된 테스트 절차를 진행하여 구성된 소스코드의 결함을 파악한다.
+Source Control에서 구성된 소스 코드를 실행 가능한 형태로 가공하며 사전에 구성된 테스트 절차를 진행하여 구성된 소스 코드의 결함을 파악한다.
 
 ### Test Tool
+사전 구성된 테스트 코드에 따라서 일련의 검증과정을 거치고 그에따라 
 
 ![Imgur](https://i.imgur.com/O4fkG4i.png)
 
@@ -30,6 +31,6 @@ Source Control에서 구성된 소스코드를 실행 가능한 형태로 가공
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyOTYzNjU0LDEyODg4MzIxMzYsMzYyMj
-gwNzg2LC0yMTIxMDYzMDM2XX0=
+eyJoaXN0b3J5IjpbLTg1NzAyMDkyMywxMjg4ODMyMTM2LDM2Mj
+I4MDc4NiwtMjEyMTA2MzAzNl19
 -->
