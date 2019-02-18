@@ -18,11 +18,14 @@ CI(**C**ontinuous **I**ntegration), 지속적 통합이란 소스관리, 빌드,
 
 ### 빌드/배포 자동화 방식
 
+![Imgur](https://i.imgur.com/O4fkG4i.png)
 
 ## Tools
 
 ## 참조
 - http://www.nextree.co.kr/p10799/
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjEwNjMwMzZdfQ==
+eyJoaXN0b3J5IjpbMjk1MzIxMDczLC0yMTIxMDYzMDM2XX0=
 -->
