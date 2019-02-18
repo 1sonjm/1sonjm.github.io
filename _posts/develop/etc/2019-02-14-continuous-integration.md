@@ -9,15 +9,15 @@ tags:
 # Continuous Integration
 CI(**C**ontinuous **I**ntegration), 지속적 통합이란 소스관리, 빌드, 배포 등의 구조를 자동화 함으로써 소프트웨어 개발에 위험을 줄이는 방법으로 사용되고 있습니다.
 
-## CI를 적용의 중요한 4가지 영역
-### 형상관리 항목에 대한 선정과 형상관리 구성 방식 결정
-Subversion, gitlab, github 등의 형상관리 시스템을
+## CI 구성의 핵심 4요소
+### CI Server
+빌드프로세스를 관리하는 서버
 
-### 단위테스트/통합테스트 방식
+### SCM
 
-### 비기능 속성(품질 속성) 관리 방식
+### Build Tool
 
-### 빌드/배포 자동화 방식
+### Test Tool
 
 ![Imgur](https://i.imgur.com/O4fkG4i.png)
 
@@ -28,5 +28,6 @@ Subversion, gitlab, github 등의 형상관리 시스템을
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyMjgwNzg2LC0yMTIxMDYzMDM2XX0=
+eyJoaXN0b3J5IjpbMTAzODM1NDI3NiwzNjIyODA3ODYsLTIxMj
+EwNjMwMzZdfQ==
 -->
