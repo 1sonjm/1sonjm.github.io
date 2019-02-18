@@ -14,7 +14,7 @@ CI(**C**ontinuous **I**ntegration), 지속적 통합이란 소스관리, 빌드,
 자동화 프로세스를 구성하여 테스트를 포함한 자동화 빌드를 통해 검증하며 오류를 감지합니다.
 
 ### Source Control, Version Control
-소스코ㄷ
+소스 코드 관리 및 빌드
 
 ### Build Tool
 
@@ -29,6 +29,6 @@ CI(**C**ontinuous **I**ntegration), 지속적 통합이란 소스관리, 빌드,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3NDY2NDc1LDEyODg4MzIxMzYsMzYyMj
-gwNzg2LC0yMTIxMDYzMDM2XX0=
+eyJoaXN0b3J5IjpbLTEwMDg0ODQ4NzEsMTI4ODgzMjEzNiwzNj
+IyODA3ODYsLTIxMjEwNjMwMzZdfQ==
 -->
