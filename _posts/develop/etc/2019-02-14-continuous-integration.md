@@ -7,7 +7,9 @@ tags:
   - system
 ---
 # Continuous Integration
-CI(Continuous Integration)
+CI(**C**ontinuous **I**ntegration) 는 
+
+## Tools
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjMzMDgzNF19
+eyJoaXN0b3J5IjpbNjU0MzYyNDU1XX0=
 -->
