@@ -11,7 +11,7 @@ CI(**C**ontinuous **I**ntegration), 지속적 통합이란 소스관리, 빌드,
 
 ## CI 구성의 핵심 4요소
 ### CI Server
-빌드프로세스를 관리하는 서버
+빌드 프로세스를 관리하는 서버
 
 ### SCM
 
@@ -28,6 +28,6 @@ CI(**C**ontinuous **I**ntegration), 지속적 통합이란 소스관리, 빌드,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODM1NDI3NiwzNjIyODA3ODYsLTIxMj
+eyJoaXN0b3J5IjpbMTI4ODgzMjEzNiwzNjIyODA3ODYsLTIxMj
 EwNjMwMzZdfQ==
 -->
