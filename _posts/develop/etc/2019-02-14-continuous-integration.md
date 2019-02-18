@@ -24,6 +24,8 @@ Source Control에서 구성된 소스 코드를 실행 가능한 형태로 가�
 ### Test Tool
 사전 구성된 테스트 코드에 따라서 일련의 검증과정을 거치고 그에 대한 성공 여부에 따라 Build Tool이 진행 여부가 결정된다.
 
+## 개선을 위한
+
 
 
 ## Tools
@@ -33,6 +35,6 @@ Source Control에서 구성된 소스 코드를 실행 가능한 형태로 가�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDgwNzc4NywxMjg4ODMyMTM2LDM2Mj
-I4MDc4NiwtMjEyMTA2MzAzNl19
+eyJoaXN0b3J5IjpbLTUzODgwNTgxMSwtNzA0ODA3Nzg3LDEyOD
+g4MzIxMzYsMzYyMjgwNzg2LC0yMTIxMDYzMDM2XX0=
 -->
