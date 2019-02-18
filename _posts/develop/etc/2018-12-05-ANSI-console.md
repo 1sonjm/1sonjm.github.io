@@ -1,6 +1,6 @@
 ---
 categories: 
-  - 정보
+  - etc
 tags: 
   - ansi
 ---
@@ -9,5 +9,5 @@ tags:
 https://marketplace.eclipse.org/content/ansi-escape-console  
 console 텍스트에 색상추가
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxNjIyODUxXX0=
+eyJoaXN0b3J5IjpbLTg2MjU1NzA0OF19
 -->
