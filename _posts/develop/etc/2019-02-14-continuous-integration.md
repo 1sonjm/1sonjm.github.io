@@ -21,7 +21,7 @@ CI(**C**ontinuous **I**ntegration), 지속적 통합이란 소스관리, 빌드,
 예) `Subversion(SVN)`, `Git`, `GitLab` 등
 
 ### Build Tool
-Source Control에서 구성된 소스 코드를 실행 가능한 형태로 가공하며 사전에 구성된 테스트 절차를 진행하여 구성된 소스 코드의 결함을 파악한다.
+Source Control에서 구성된 소스 코드를 실행 가능한 형태로 가공하며 사전에 구성된 테스트 절차를 진행하여 구성된 소스 코드의 결함을 파악한다.  
 예) `Maven`, `Gradle`, `Ant` 등  
 
 ### Test Tool
@@ -36,7 +36,7 @@ Source Control에서 구성된 소스 코드를 실행 가능한 형태로 가�
 - https://codeship.com/continuous-integration-essentials
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg5MTYzNDUsLTE4NzA5MzAzMDAsLT
-E1Mjk5MDAxMzMsLTcwNDgwNzc4NywxMjg4ODMyMTM2LDM2MjI4
-MDc4NiwtMjEyMTA2MzAzNl19
+eyJoaXN0b3J5IjpbMTc0MjQ4Mzc4MywtMTg3MDkzMDMwMCwtMT
+UyOTkwMDEzMywtNzA0ODA3Nzg3LDEyODg4MzIxMzYsMzYyMjgw
+Nzg2LC0yMTIxMDYzMDM2XX0=
 -->
