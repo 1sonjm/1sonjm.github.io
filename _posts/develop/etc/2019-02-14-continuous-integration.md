@@ -33,9 +33,10 @@ Source Control에서 구성된 소스 코드를 실행 가능한 형태로 가�
 - http://www.nextree.co.kr/p10799/
 - http://www.chidoo.me/index.php/2016/03/21/sonarqube-for-ci/
 - https://asfirstalways.tistory.com/303
+- https://codeship.com/continuous-integration-essentials
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA5MzAzMDAsLTE1Mjk5MDAxMzMsLT
-cwNDgwNzc4NywxMjg4ODMyMTM2LDM2MjI4MDc4NiwtMjEyMTA2
-MzAzNl19
+eyJoaXN0b3J5IjpbLTE2OTcyNzM4NDksLTE4NzA5MzAzMDAsLT
+E1Mjk5MDAxMzMsLTcwNDgwNzc4NywxMjg4ODMyMTM2LDM2MjI4
+MDc4NiwtMjEyMTA2MzAzNl19
 -->
