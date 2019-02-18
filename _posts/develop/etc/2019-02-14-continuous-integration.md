@@ -13,7 +13,7 @@ CI(**C**ontinuous **I**ntegration), 지속적 통합이란 소스관리, 빌드,
 
 ## CI 구성의 핵심 4요소
 ### CI Server
-자동화 프로세스를 구성하여 빌드. 테스트를 포함한 자동화 빌드를 통해 검증하며 오류를 감지한다.
+빌드 스크립트를 작성하고 자동화 프로세스를 구성하여 빌드. 테스트를 포함한 자동화 절차를 통해 검증하며 오류를 감지한다.
 예) `Jenkins`, `Travis` 등
 
 ### Source Control, Version Control
@@ -36,6 +36,6 @@ Source Control에서 구성된 소스 코드를 실행 가능한 형태로 가�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjI3MjQwNiwtNzA0ODA3Nzg3LDEyOD
-g4MzIxMzYsMzYyMjgwNzg2LC0yMTIxMDYzMDM2XX0=
+eyJoaXN0b3J5IjpbLTE1Mjk5MDAxMzMsLTcwNDgwNzc4NywxMj
+g4ODMyMTM2LDM2MjI4MDc4NiwtMjEyMTA2MzAzNl19
 -->
