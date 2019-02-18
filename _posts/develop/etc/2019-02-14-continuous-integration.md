@@ -28,14 +28,14 @@ Source Control에서 구성된 소스 코드를 실행 가능한 형태로 가�
 사전 구성된 테스트 코드에 따라서 일련의 검증과정을 거친다. 기능의 검증 뿐만 아니라 코드 품질에 대해서도 검증과정이 진행되는것이 좋다.
 예) `Junit`, `SonarQube` 등
 
-## 개선을 위한
-
 
 ## 참조
 - http://www.nextree.co.kr/p10799/
-
+- http://www.chidoo.me/index.php/2016/03/21/sonarqube-for-ci/
+- https://asfirstalways.tistory.com/303
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk5MDAxMzMsLTcwNDgwNzc4NywxMj
-g4ODMyMTM2LDM2MjI4MDc4NiwtMjEyMTA2MzAzNl19
+eyJoaXN0b3J5IjpbLTE4NzA5MzAzMDAsLTE1Mjk5MDAxMzMsLT
+cwNDgwNzc4NywxMjg4ODMyMTM2LDM2MjI4MDc4NiwtMjEyMTA2
+MzAzNl19
 -->
