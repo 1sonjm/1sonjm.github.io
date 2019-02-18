@@ -10,6 +10,8 @@ tags:
 CI(**C**ontinuous **I**ntegration), 지속적 통합이란 소스관리, 빌드, 배포 등의 구조를 자동화 함으로써 소프트웨어 개발에 위험을 줄이는 방법으로 사용되고 있습니다.
 
 ![Imgur](https://i.imgur.com/O4fkG4i.png)
+> 1. Source Control 로 변경사항 반영
+> 2. CI 서버에서 변경사항 
 
 ## CI 구성의 핵심 4요소
 ### CI Server
@@ -33,6 +35,6 @@ Source Control에서 구성된 소스 코드를 실행 가능한 형태로 가�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDgwNzc4NywxMjg4ODMyMTM2LDM2Mj
-I4MDc4NiwtMjEyMTA2MzAzNl19
+eyJoaXN0b3J5IjpbNjgxNjQ3NzM3LDEyODg4MzIxMzYsMzYyMj
+gwNzg2LC0yMTIxMDYzMDM2XX0=
 -->
