@@ -29,6 +29,7 @@ List <|-- Vector
 Vector <|-- Stack
 List <|-- AbstractSequentialList
 AbstractSequentialList <|-- LinkedList
+
 Collection <|-- Queue
 Queue <|-- Deque
 Deque <-- LinkedList
@@ -64,7 +65,7 @@ Queue: <interface>
 # 참조
 - https://dzone.com/articles/java-collections
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM5NjkxMywxNjU3NDM5NTM2LDE1MD
+eyJoaXN0b3J5IjpbMTAzNzg5MDI3MywxNjU3NDM5NTM2LDE1MD
 A4MzIyMDUsLTgyMTQzMDYzMywxNDkxNTcwMTg0LDEyOTAzNDM3
 NjQsMzMwNjM0NDI4XX0=
 -->
