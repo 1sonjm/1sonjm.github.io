@@ -83,7 +83,7 @@ NavigableMap <-- TreeMap
 Map: <interface>
 AbstractMap: <abstract>
 SortedMap: <interface>
-NavigableMap: <abstract>
+NavigableMap: <interface>
 ```
 - Map : 키(key)와 값(value)으로 개채 관리합니다.
 - AbstractMap :
@@ -95,7 +95,7 @@ NavigableMap: <abstract>
 - https://dzone.com/articles/java-collections
 - https://swalloow.tistory.com/36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDMxOTA3MiwxNzAyNjkzMjI1LC0xMD
+eyJoaXN0b3J5IjpbMTAzMzkzNjg0OSwxNzAyNjkzMjI1LC0xMD
 AyNzA4Nzc2LDY1OTkyODE1OCwxNjU3NDM5NTM2LDE1MDA4MzIy
 MDUsLTgyMTQzMDYzMywxNDkxNTcwMTg0LDEyOTAzNDM3NjQsMz
 MwNjM0NDI4XX0=
