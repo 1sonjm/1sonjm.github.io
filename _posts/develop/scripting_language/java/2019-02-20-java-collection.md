@@ -10,9 +10,8 @@ header:
     - label: java api
       url: "https://docs.oracle.com/javase/8/docs/api/?java/util/Comparator.html"
 ---
-# Collection
-순서나 집합적인 저장공간
 
+# Collection
 ```mermaid
 classDiagram
 Iterable <|-- Collection
@@ -78,7 +77,7 @@ HashMap <-- LinkedHashMap
 Map: <interface>
 AbstractMap: <abstract>
 ```
-- Map : 키(key)와 값(value)으로 개채 관리
+- Map : 키(key)와 값(value)으로 개채 관리합니다.
 - AbstractMap :
 - HashMap : 
 - LinkedHashMap :
@@ -88,8 +87,7 @@ AbstractMap: <abstract>
 - https://dzone.com/articles/java-collections
 - https://swalloow.tistory.com/36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjkzMjMxOTksLTEwMDI3MDg3NzYsNj
-U5OTI4MTU4LDE2NTc0Mzk1MzYsMTUwMDgzMjIwNSwtODIxNDMw
-NjMzLDE0OTE1NzAxODQsMTI5MDM0Mzc2NCwzMzA2MzQ0MjhdfQ
-==
+eyJoaXN0b3J5IjpbMTcwMjY5MzIyNSwtMTAwMjcwODc3Niw2NT
+k5MjgxNTgsMTY1NzQzOTUzNiwxNTAwODMyMjA1LC04MjE0MzA2
+MzMsMTQ5MTU3MDE4NCwxMjkwMzQzNzY0LDMzMDYzNDQyOF19
 -->
