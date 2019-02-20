@@ -11,6 +11,8 @@ header:
       url: "https://docs.oracle.com/javase/8/docs/api/?java/util/Comparator.html"
 ---
 # Collection
+ㅅ
+
 ```mermaid
 classDiagram
 Iterable <|-- Collection
@@ -86,7 +88,7 @@ AbstractMap: <abstract>
 - https://dzone.com/articles/java-collections
 - https://swalloow.tistory.com/36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDI3MDg3NzYsNjU5OTI4MTU4LDE2NT
-c0Mzk1MzYsMTUwMDgzMjIwNSwtODIxNDMwNjMzLDE0OTE1NzAx
-ODQsMTI5MDM0Mzc2NCwzMzA2MzQ0MjhdfQ==
+eyJoaXN0b3J5IjpbLTYxNzM5NzI3NywtMTAwMjcwODc3Niw2NT
+k5MjgxNTgsMTY1NzQzOTUzNiwxNTAwODMyMjA1LC04MjE0MzA2
+MzMsMTQ5MTU3MDE4NCwxMjkwMzQzNzY0LDMzMDYzNDQyOF19
 -->
