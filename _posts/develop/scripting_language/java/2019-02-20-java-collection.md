@@ -13,10 +13,10 @@ header:
 # Collection
 ```mermaid
 classDiagram
-Iterable: provides for iterating over the collection
 Iterable <|-- Collection
-Collection: provides for iterating over the collection
+Iterable: <interface>
 Collection <|-- Set
+Collection: <interface>
 Set <-- AbstractSet
 AbstractSet <|-- HashSet
 HashSet <|-- LinkedHashSet
@@ -55,6 +55,7 @@ Deque <-- Deque
 # 참조
 - https://dzone.com/articles/java-collections
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDgzMjIwNSwtODIxNDMwNjMzLDE0OT
-E1NzAxODQsMTI5MDM0Mzc2NCwzMzA2MzQ0MjhdfQ==
+eyJoaXN0b3J5IjpbMTUwNjA2ODU2OSwxNTAwODMyMjA1LC04Mj
+E0MzA2MzMsMTQ5MTU3MDE4NCwxMjkwMzQzNzY0LDMzMDYzNDQy
+OF19
 -->
