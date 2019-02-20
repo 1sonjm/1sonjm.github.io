@@ -99,11 +99,13 @@ NavigableMap: <interface>
 - https://dzone.com/articles/java-collections
 - https://swalloow.tistory.com/36
 - https://hackersstudy.tistory.com/26
+- https://ratsgo.github.io/data%20structure&algorithm/2017/10/22/bst/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM4NzA5NjMsLTE1MzA5MzUxNjEsLT
-E1NTgyNzY2NTQsNjI1ODk1NjQzLDg2NzkxNTk4NCwtNjU0NDky
-MjIxLC0xMzAwNTY4MzExLDE0MTYwMTk0NjksMTAzMzkzNjg0OS
-wxNzAyNjkzMjI1LC0xMDAyNzA4Nzc2LDY1OTkyODE1OCwxNjU3
-NDM5NTM2LDE1MDA4MzIyMDUsLTgyMTQzMDYzMywxNDkxNTcwMT
-g0LDEyOTAzNDM3NjQsMzMwNjM0NDI4XX0=
+eyJoaXN0b3J5IjpbMjAyNjMzMDAxMSwtMTA0Mzg3MDk2MywtMT
+UzMDkzNTE2MSwtMTU1ODI3NjY1NCw2MjU4OTU2NDMsODY3OTE1
+OTg0LC02NTQ0OTIyMjEsLTEzMDA1NjgzMTEsMTQxNjAxOTQ2OS
+wxMDMzOTM2ODQ5LDE3MDI2OTMyMjUsLTEwMDI3MDg3NzYsNjU5
+OTI4MTU4LDE2NTc0Mzk1MzYsMTUwMDgzMjIwNSwtODIxNDMwNj
+MzLDE0OTE1NzAxODQsMTI5MDM0Mzc2NCwzMzA2MzQ0MjhdfQ==
+
 -->
