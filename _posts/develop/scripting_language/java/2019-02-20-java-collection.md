@@ -55,9 +55,10 @@ Queue: <interface>
 		
 	- LinkedHashSet : _double-linked list_ 로써 개체간의 순서를 보장합니다.
 	- TreeSet :  이진탐색트리(BinarySearchTree)의 형태로 데이터를 저장하며 순서를 유지하지 않습니다. 
+		> **이진탐색 (BinarySearch)**
+		> 추가작성
 		> **이진탐색트리 (BinarySearchTree)** [참조](https://ratsgo.github.io/data%20structure&algorithm/2017/10/22/bst/)  
 		> 이진탐색(binary search)과 연결리스트(linked list)를 결합한 자료구조의 일종입니다. 이진탐색의 추가 / 삭제시 단점을 개선하였습니다. 
-		> ㅇ
 		
 		
 - List : 정렬된 순차 컬랙션입니다.
@@ -102,11 +103,11 @@ NavigableMap: <interface>
 - https://hackersstudy.tistory.com/26
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTI2MzI4NiwtMTkwODYyNDg1MywtMT
-k3MDM1MjIxMCwyODUzMjQ0NTksLTEwNDM4NzA5NjMsLTE1MzA5
-MzUxNjEsLTE1NTgyNzY2NTQsNjI1ODk1NjQzLDg2NzkxNTk4NC
-wtNjU0NDkyMjIxLC0xMzAwNTY4MzExLDE0MTYwMTk0NjksMTAz
-MzkzNjg0OSwxNzAyNjkzMjI1LC0xMDAyNzA4Nzc2LDY1OTkyOD
-E1OCwxNjU3NDM5NTM2LDE1MDA4MzIyMDUsLTgyMTQzMDYzMywx
-NDkxNTcwMTg0XX0=
+eyJoaXN0b3J5IjpbMzI3NzQyODkwLC0xOTA4NjI0ODUzLC0xOT
+cwMzUyMjEwLDI4NTMyNDQ1OSwtMTA0Mzg3MDk2MywtMTUzMDkz
+NTE2MSwtMTU1ODI3NjY1NCw2MjU4OTU2NDMsODY3OTE1OTg0LC
+02NTQ0OTIyMjEsLTEzMDA1NjgzMTEsMTQxNjAxOTQ2OSwxMDMz
+OTM2ODQ5LDE3MDI2OTMyMjUsLTEwMDI3MDg3NzYsNjU5OTI4MT
+U4LDE2NTc0Mzk1MzYsMTUwMDgzMjIwNSwtODIxNDMwNjMzLDE0
+OTE1NzAxODRdfQ==
 -->
