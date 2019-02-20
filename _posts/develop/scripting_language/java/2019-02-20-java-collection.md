@@ -78,7 +78,7 @@ HashMap <-- LinkedHashMap
 Map <-- SortedMap
 SortedMap <-- NavigableMap
 AbstractMap <|-- TreeMap
-NavigableMap <-- TreeMap
+NavigableMap <|-- TreeMap
 
 Map: <interface>
 AbstractMap: <abstract>
@@ -95,7 +95,7 @@ NavigableMap: <interface>
 - https://dzone.com/articles/java-collections
 - https://swalloow.tistory.com/36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzkzNjg0OSwxNzAyNjkzMjI1LC0xMD
+eyJoaXN0b3J5IjpbLTk2OTA4MzIxMSwxNzAyNjkzMjI1LC0xMD
 AyNzA4Nzc2LDY1OTkyODE1OCwxNjU3NDM5NTM2LDE1MDA4MzIy
 MDUsLTgyMTQzMDYzMywxNDkxNTcwMTg0LDEyOTAzNDM3NjQsMz
 MwNjM0NDI4XX0=
