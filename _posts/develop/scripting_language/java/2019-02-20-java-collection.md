@@ -36,8 +36,9 @@ Deque <-- Deque
 ## Set
 # Map
 
-# cka
+# 참조
+- https://dzone.com/articles/java-collections
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA0NTc1MDIsMTQ5MTU3MDE4NCwxMj
-kwMzQzNzY0LDMzMDYzNDQyOF19
+eyJoaXN0b3J5IjpbLTgyMTQzMDYzMywxNDkxNTcwMTg0LDEyOT
+AzNDM3NjQsMzMwNjM0NDI4XX0=
 -->
