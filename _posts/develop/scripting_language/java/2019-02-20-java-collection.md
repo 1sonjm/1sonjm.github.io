@@ -1,7 +1,16 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
+---
+title: java / API / Collection
+categories: 
+  - java
+tags: 
+  - api
+  - java
+header:  
+  actions:
+    - label: java api
+      url: "https://docs.oracle.com/javase/8/docs/api/?java/util/Comparator.html"
+---
+# c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNzQyNjcyMzE3XX0=
 -->
