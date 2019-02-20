@@ -11,10 +11,6 @@ header:
       url: "https://docs.oracle.com/javase/8/docs/api/?java/util/Comparator.html"
 ---
 # Collection
-
-## List
-## Set
-# Map
 ```mermaid
 classDiagram
 Iterable <|-- Collection
@@ -25,7 +21,22 @@ HashSet <|-- LinkedHashSet
 Set <|-- SortedSet
 SortedSet <|-- NavigableSet
 HashSet <|-- TreeSet
+
+Collection <|-- List
+List <-- AbstractList
+List <|-- ArrayList
+List <|-- Vector
+Vector <|-- Stack
+List <|-- AbstractSequentialList
+AbstractSequentialList <|-- LinkedList
+Deque <-- Deque
 ```
+
+## List
+## Set
+# Map
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDM0Mzc2NCwzMzA2MzQ0MjhdfQ==
+eyJoaXN0b3J5IjpbMTQ5MTU3MDE4NCwxMjkwMzQzNzY0LDMzMD
+YzNDQyOF19
 -->
