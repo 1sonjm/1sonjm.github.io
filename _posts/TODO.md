@@ -6,8 +6,9 @@
 - [ ] network / lazy loading => https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/?hl=ko
 - [x] LinkedHashSet
 - [ ] algorithm / 이진탐색 => https://ledgku.tistory.com/35
-- [ ] algorithm / 
+- [ ] data-structure / hashtable
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY0ODUwOTQsMTc0ODQyNTAyMywtMT
-QzMzIyOTk0NSwtNzU2MTE5MzI5LDEwODkzMTU3NzhdfQ==
+eyJoaXN0b3J5IjpbLTE3ODk0OTM3MzEsLTE0MzY0ODUwOTQsMT
+c0ODQyNTAyMywtMTQzMzIyOTk0NSwtNzU2MTE5MzI5LDEwODkz
+MTU3NzhdfQ==
 -->
