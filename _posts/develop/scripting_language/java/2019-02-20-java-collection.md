@@ -46,38 +46,47 @@ Queue: <interface>
 - Iterable : 컬렉션에 대한 반복 처리를 제공합니다.
 - Collection :  개체의 추가 및 제거, 컬렉션 내에 개체 포함여부, 컬렉션의 개체 개수 등의 기능을 제공합니다.
 - Set : 개체의 중복을 허용하지 않습니다.
-	- HashSet : 개체의 순서를 보장하지 않습니다.
+	- HashSet : _Hashing_ 을 통해 구현되었으며 개체의 순서를 보장하지 않습니다.
+		> **Hashing**  
+		> 123
+		
 	- LinkedHashSet : _double-linked list_ 로써 개체간의 순서를 보장합니다.
-	- TreeSet : 
-- List :
-	- ArrayList :
-	- Vector :
-	- Stock :
-	- LikedList :
-- Queue :
-	- Deque :
-	- ArrayDeque :
+	- TreeSet :  이진탐색트리(BinarySearchTree)의 형태로 데이터를 저장하며 순서를 유지하지 않습니다. 검색, 정렬이 뛰어나나 개체 추가/삭제는 시간이 소요됩니다.
+		> **BinarySearchTree**  
+		> 123
+		
+- List : 정렬된 순차 컬랙션입니다.
+	- ArrayList : 유동적 길이를 가진 배열입니다.
+	- Vector : _ArrayList_ 와 비슷하게 유동적인 배열입니다. Thread-safe 나 Synchronization 을 위해서 사용됩니다.
+	- Stock : LIFO(**L**ast-**I**n-**F**irst-**O**ut) 형태의 배열입니다. _Vector_의 하위클래스로서 Thread-safe 합니다.
+	- LikedList : _double-linked list_ 로 개체간에 연결되어 있습니다.  그로인해 intermediate 위치에 추가 / 삭제가 빠릅니다. _Deque_ 클래스도 구현합니다
+- Queue : FIFO (**F**irst-**I**n-**F**irst-**O**ut) 형태의 배열입니다. Typical usage is storage to hold elements before processing in the order of receipt.
+	- Deque(**D**ouble-**E**nded-**Que**ue) :  can add and remove elements at both ends.
+	- ArrayDeque : implementation of  _Deque_  using an array for storage.
 
-    -   [_HashSet_](https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html) does not provide any ordering of the elements in the  _Set_.
-    -   [_LinkedHashSet_](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedHashSet.html) maintains a double-linked list of the elements and thus provides a predictable iteration order.
-    -   [_TreeSet_](https://docs.oracle.com/javase/8/docs/api/java/util/TreeSet.html) which uses a comparator function to maintain element ordering.
-4.  A  _[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)_  is an ordered sequential collection. Concrete implementations include:
-    -   _[ArrayList](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)_  is a re-sizable list backed by an array.
-    -   [_Vector_](https://docs.oracle.com/javase/8/docs/api/java/util/Vector.html) is also a re-sizable array similar to an  _ArrayList_. Use it only when you need thread-safety and synchronization.
-    -   [_Stack_](https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html) is a LIFO(Last-In-First-Out) array. A subclass of  _Vector_  and is also thread-safe.
-    -   [_LinkedList_](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html) is a doubly linked list of elements. Offers fast adds and removes from intermediate positions. Note that this class also implements the  [_Deque_](https://docs.oracle.com/javase/8/docs/api/java/util/Deque.html) interface.
-5.  A  _[Queue](https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html)_  orders elements in a FIFO (First-In-First-Out) order. The  _[add()](https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html#add-E-)_  method adds elements at the tail and  _[remove()](https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html#remove--)_  removes elements from the head. Typical usage is storage to hold elements before processing in the order of receipt.
-6.  On the other hand, a  _[Deque](https://docs.oracle.com/javase/8/docs/api/java/util/Deque.html)_  (Double-Ended-Queue) can add and remove elements at both ends.
-    -   [_ArrayDeque_](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayDeque.html) is an implementation of  _Deque_  using an array for storage.
-    -   A  _LinkedList_  is also a  _Deque_.
-## List
-## Set
+
+
 # Map
+```mermaid
+classDiagram
+Map <-- AbstractMap
+AbstractMap <|-- HashMap
+HashMap <-- LinkedHashMap
+
+Map: <interface>
+AbstractMap: <abstract>
+```
+- Map :
+- AbstractMap :
+- HashMap : 
+- LinkedHashMap :
+
 
 # 참조
 - https://dzone.com/articles/java-collections
+- https://swalloow.tistory.com/36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5OTI4MTU4LDE2NTc0Mzk1MzYsMTUwMD
-gzMjIwNSwtODIxNDMwNjMzLDE0OTE1NzAxODQsMTI5MDM0Mzc2
-NCwzMzA2MzQ0MjhdfQ==
+eyJoaXN0b3J5IjpbLTEwMDI3MDg3NzYsNjU5OTI4MTU4LDE2NT
+c0Mzk1MzYsMTUwMDgzMjIwNSwtODIxNDMwNjMzLDE0OTE1NzAx
+ODQsMTI5MDM0Mzc2NCwzMzA2MzQ0MjhdfQ==
 -->
