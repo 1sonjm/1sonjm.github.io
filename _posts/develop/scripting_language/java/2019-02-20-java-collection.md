@@ -29,7 +29,10 @@ List <|-- Vector
 Vector <|-- Stack
 List <|-- AbstractSequentialList
 AbstractSequentialList <|-- LinkedList
+Collection <|-- Queue
+Queue <|-- Deque
 Deque <-- LinkedList
+Deque <-- ArrayDeque
 
 Iterable: <interface>
 Collection: <interface>
@@ -37,6 +40,7 @@ List: <interface>
 Set: <interface>
 SortedSet: <interface>
 NavigableSet: <interface>
+Queue: <interface>
 ```
 1.  At the root of the hierarchy is  [_Iterable_](https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html) which, as the name indicates, provides for iterating over the collection.
 2.  The next is the  [Collection](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html) interface, which provides most of the methods representing a collection. These methods include providing for adding and removing elements, checking if the collection includes an element, and obtaining the number of elements in the collection.
@@ -60,7 +64,7 @@ NavigableSet: <interface>
 # 참조
 - https://dzone.com/articles/java-collections
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzQzOTUzNiwxNTAwODMyMjA1LC04Mj
-E0MzA2MzMsMTQ5MTU3MDE4NCwxMjkwMzQzNzY0LDMzMDYzNDQy
-OF19
+eyJoaXN0b3J5IjpbLTExNjM5NjkxMywxNjU3NDM5NTM2LDE1MD
+A4MzIyMDUsLTgyMTQzMDYzMywxNDkxNTcwMTg0LDEyOTAzNDM3
+NjQsMzMwNjM0NDI4XX0=
 -->
