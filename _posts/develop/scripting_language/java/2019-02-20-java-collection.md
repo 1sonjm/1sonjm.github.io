@@ -20,7 +20,7 @@ AbstractSet <|-- HashSet
 HashSet <|-- LinkedHashSet
 Set <|-- SortedSet
 SortedSet <|-- NavigableSet
-HashSet <|-- TreeSet
+NavigableSet <-- TreeSet
 
 Collection <|-- List
 List <-- AbstractList
@@ -43,6 +43,8 @@ SortedSet: <interface>
 NavigableSet: <interface>
 Queue: <interface>
 ```
+- Iterable : 
+- 
 1.  At the root of the hierarchy is  [_Iterable_](https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.html) which, as the name indicates, provides for iterating over the collection.
 2.  The next is the  [Collection](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html) interface, which provides most of the methods representing a collection. These methods include providing for adding and removing elements, checking if the collection includes an element, and obtaining the number of elements in the collection.
 3.  A  [_Set_](https://docs.oracle.com/javase/8/docs/api/java/util/Set.html) contains no duplicate elements. Common implementations are:
@@ -65,7 +67,7 @@ Queue: <interface>
 # 참조
 - https://dzone.com/articles/java-collections
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzg5MDI3MywxNjU3NDM5NTM2LDE1MD
+eyJoaXN0b3J5IjpbLTQzNDM1NzkzMCwxNjU3NDM5NTM2LDE1MD
 A4MzIyMDUsLTgyMTQzMDYzMywxNDkxNTcwMTg0LDEyOTAzNDM3
 NjQsMzMwNjM0NDI4XX0=
 -->
