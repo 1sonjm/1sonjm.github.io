@@ -57,6 +57,7 @@ Queue: <interface>
 	- TreeSet :  이진탐색트리(BinarySearchTree)의 형태로 데이터를 저장하며 순서를 유지하지 않습니다. 
 		> **이진탐색트리 (BinarySearchTree)** [참조](https://ratsgo.github.io/data%20structure&algorithm/2017/10/22/bst/)  
 		> 이진탐색(binary search)과 연결리스트(linked list)를 결합한 자료구조의 일종입니다. 이진탐색의 추가 / 삭제시 단점을 개선하였습니다. 
+		> ㅇ
 		
 		
 - List : 정렬된 순차 컬랙션입니다.
@@ -101,11 +102,11 @@ NavigableMap: <interface>
 - https://hackersstudy.tistory.com/26
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg2MjQ4NTMsLTE5NzAzNTIyMTAsMj
-g1MzI0NDU5LC0xMDQzODcwOTYzLC0xNTMwOTM1MTYxLC0xNTU4
-Mjc2NjU0LDYyNTg5NTY0Myw4Njc5MTU5ODQsLTY1NDQ5MjIyMS
-wtMTMwMDU2ODMxMSwxNDE2MDE5NDY5LDEwMzM5MzY4NDksMTcw
-MjY5MzIyNSwtMTAwMjcwODc3Niw2NTk5MjgxNTgsMTY1NzQzOT
-UzNiwxNTAwODMyMjA1LC04MjE0MzA2MzMsMTQ5MTU3MDE4NCwx
-MjkwMzQzNzY0XX0=
+eyJoaXN0b3J5IjpbLTgzOTI2MzI4NiwtMTkwODYyNDg1MywtMT
+k3MDM1MjIxMCwyODUzMjQ0NTksLTEwNDM4NzA5NjMsLTE1MzA5
+MzUxNjEsLTE1NTgyNzY2NTQsNjI1ODk1NjQzLDg2NzkxNTk4NC
+wtNjU0NDkyMjIxLC0xMzAwNTY4MzExLDE0MTYwMTk0NjksMTAz
+MzkzNjg0OSwxNzAyNjkzMjI1LC0xMDAyNzA4Nzc2LDY1OTkyOD
+E1OCwxNjU3NDM5NTM2LDE1MDA4MzIyMDUsLTgyMTQzMDYzMywx
+NDkxNTcwMTg0XX0=
 -->
