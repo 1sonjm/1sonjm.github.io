@@ -11,7 +11,7 @@ header:
       url: "https://docs.oracle.com/javase/8/docs/api/?java/util/Comparator.html"
 ---
 # Collection
-ㅅ
+순서나 집합적인 저장공간
 
 ```mermaid
 classDiagram
@@ -69,6 +69,7 @@ Queue: <interface>
 
 
 # Map
+키(key)와 값(value)으로 개채 관리
 ```mermaid
 classDiagram
 Map <-- AbstractMap
@@ -88,7 +89,7 @@ AbstractMap: <abstract>
 - https://dzone.com/articles/java-collections
 - https://swalloow.tistory.com/36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzM5NzI3NywtMTAwMjcwODc3Niw2NT
-k5MjgxNTgsMTY1NzQzOTUzNiwxNTAwODMyMjA1LC04MjE0MzA2
-MzMsMTQ5MTU3MDE4NCwxMjkwMzQzNzY0LDMzMDYzNDQyOF19
+eyJoaXN0b3J5IjpbODE4MDQ4NzE3LC0xMDAyNzA4Nzc2LDY1OT
+kyODE1OCwxNjU3NDM5NTM2LDE1MDA4MzIyMDUsLTgyMTQzMDYz
+MywxNDkxNTcwMTg0LDEyOTAzNDM3NjQsMzMwNjM0NDI4XX0=
 -->
