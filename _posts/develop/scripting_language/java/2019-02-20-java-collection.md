@@ -46,8 +46,8 @@ Queue: <interface>
 - Iterable : 컬렉션에 대한 반복 처리를 제공합니다.
 - Collection :  개체의 추가 및 제거, 컬렉션 내에 개체 포함여부, 컬렉션의 개체 개수 등의 기능을 제공합니다.
 - Set : 개체의 중복을 허용하지 않습니다.
-	- HashSet :
-	- LinkedHashSet:
+	- HashSet : 개체의 순서를 보장하지 않습니다.
+	- LinkedHashSet : _double-linked list_ 로써 개체간의 순서를 보장합니다.
 	- TreeSet
 - List :
 	- ArrayList :
@@ -55,8 +55,9 @@ Queue: <interface>
 	- Stock :
 	- LikedList :
 - Queue :
-	- 
-3.  A  [_Set_](https://docs.oracle.com/javase/8/docs/api/java/util/Set.html) contains no duplicate elements. Common implementations are:
+	- Deque :
+	- ArrayDeque :
+
     -   [_HashSet_](https://docs.oracle.com/javase/8/docs/api/java/util/HashSet.html) does not provide any ordering of the elements in the  _Set_.
     -   [_LinkedHashSet_](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedHashSet.html) maintains a double-linked list of the elements and thus provides a predictable iteration order.
     -   [_TreeSet_](https://docs.oracle.com/javase/8/docs/api/java/util/TreeSet.html) which uses a comparator function to maintain element ordering.
@@ -76,7 +77,7 @@ Queue: <interface>
 # 참조
 - https://dzone.com/articles/java-collections
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA4MjQxNTAsMTY1NzQzOTUzNiwxNT
+eyJoaXN0b3J5IjpbLTE4OTkyODcyOTQsMTY1NzQzOTUzNiwxNT
 AwODMyMjA1LC04MjE0MzA2MzMsMTQ5MTU3MDE4NCwxMjkwMzQz
 NzY0LDMzMDYzNDQyOF19
 -->
