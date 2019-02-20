@@ -87,7 +87,7 @@ NavigableMap: <interface>
 ```
 - Map : 키(key)와 값(value)으로 개채 관리합니다.
 - AbstractMap :
-	- HashMap : 
+	- HashMap : _Hashing_ 을 통해 
 	- LinkedHashMap :
 	- TreeMap
 
@@ -97,8 +97,8 @@ NavigableMap: <interface>
 - https://swalloow.tistory.com/36
 - https://hackersstudy.tistory.com/26
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODA0NTIwLDE0MTYwMTk0NjksMTAzMz
-kzNjg0OSwxNzAyNjkzMjI1LC0xMDAyNzA4Nzc2LDY1OTkyODE1
-OCwxNjU3NDM5NTM2LDE1MDA4MzIyMDUsLTgyMTQzMDYzMywxND
-kxNTcwMTg0LDEyOTAzNDM3NjQsMzMwNjM0NDI4XX0=
+eyJoaXN0b3J5IjpbLTEzMDA1NjgzMTEsMTQxNjAxOTQ2OSwxMD
+MzOTM2ODQ5LDE3MDI2OTMyMjUsLTEwMDI3MDg3NzYsNjU5OTI4
+MTU4LDE2NTc0Mzk1MzYsMTUwMDgzMjIwNSwtODIxNDMwNjMzLD
+E0OTE1NzAxODQsMTI5MDM0Mzc2NCwzMzA2MzQ0MjhdfQ==
 -->
