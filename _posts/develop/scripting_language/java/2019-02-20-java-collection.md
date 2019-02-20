@@ -94,9 +94,10 @@ NavigableMap: <interface>
 # 참조
 - https://dzone.com/articles/java-collections
 - https://swalloow.tistory.com/36
+- https://hackersstudy.tistory.com/26
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzkzNjg0OSwxNzAyNjkzMjI1LC0xMD
-AyNzA4Nzc2LDY1OTkyODE1OCwxNjU3NDM5NTM2LDE1MDA4MzIy
-MDUsLTgyMTQzMDYzMywxNDkxNTcwMTg0LDEyOTAzNDM3NjQsMz
-MwNjM0NDI4XX0=
+eyJoaXN0b3J5IjpbMTQxNjAxOTQ2OSwxMDMzOTM2ODQ5LDE3MD
+I2OTMyMjUsLTEwMDI3MDg3NzYsNjU5OTI4MTU4LDE2NTc0Mzk1
+MzYsMTUwMDgzMjIwNSwtODIxNDMwNjMzLDE0OTE1NzAxODQsMT
+I5MDM0Mzc2NCwzMzA2MzQ0MjhdfQ==
 -->
