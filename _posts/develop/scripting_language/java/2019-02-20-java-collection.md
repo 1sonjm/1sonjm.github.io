@@ -29,7 +29,7 @@ List <|-- Vector
 Vector <|-- Stack
 List <|-- AbstractSequentialList
 AbstractSequentialList <|-- LinkedList
-Deque <-- Deque
+Deque <-- LinkedList
 Iterable: <interface>
 Collection: <interface>
 List: <interface>
@@ -59,7 +59,7 @@ NavigableSet: <interface>
 # 참조
 - https://dzone.com/articles/java-collections
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0NDYzNDg3LDE1MDA4MzIyMDUsLTgyMT
-QzMDYzMywxNDkxNTcwMTg0LDEyOTAzNDM3NjQsMzMwNjM0NDI4
-XX0=
+eyJoaXN0b3J5IjpbLTIxMTcwMTIyMjIsMTUwMDgzMjIwNSwtOD
+IxNDMwNjMzLDE0OTE1NzAxODQsMTI5MDM0Mzc2NCwzMzA2MzQ0
+MjhdfQ==
 -->
