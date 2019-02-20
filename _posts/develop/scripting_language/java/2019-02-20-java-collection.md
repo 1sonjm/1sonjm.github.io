@@ -88,6 +88,7 @@ NavigableMap: <interface>
 - Map : 키(key)와 값(value)으로 개채 관리합니다.
 - AbstractMap :
 	- HashMap : _Hashing_ 을 통해 
+	- HashTable :  _HashMap_ 보다는 느리지만 Synchronization가 지원됩니다.
 	- LinkedHashMap :
 	- TreeMap
 
@@ -97,8 +98,9 @@ NavigableMap: <interface>
 - https://swalloow.tistory.com/36
 - https://hackersstudy.tistory.com/26
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA1NjgzMTEsMTQxNjAxOTQ2OSwxMD
-MzOTM2ODQ5LDE3MDI2OTMyMjUsLTEwMDI3MDg3NzYsNjU5OTI4
-MTU4LDE2NTc0Mzk1MzYsMTUwMDgzMjIwNSwtODIxNDMwNjMzLD
-E0OTE1NzAxODQsMTI5MDM0Mzc2NCwzMzA2MzQ0MjhdfQ==
+eyJoaXN0b3J5IjpbLTY1NDQ5MjIyMSwtMTMwMDU2ODMxMSwxND
+E2MDE5NDY5LDEwMzM5MzY4NDksMTcwMjY5MzIyNSwtMTAwMjcw
+ODc3Niw2NTk5MjgxNTgsMTY1NzQzOTUzNiwxNTAwODMyMjA1LC
+04MjE0MzA2MzMsMTQ5MTU3MDE4NCwxMjkwMzQzNzY0LDMzMDYz
+NDQyOF19
 -->
