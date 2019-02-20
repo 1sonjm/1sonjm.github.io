@@ -10,8 +10,9 @@ header:
     - label: java api
       url: "https://docs.oracle.com/javase/8/docs/api/?java/util/Comparator.html"
 ---
+Collections 와 Map 의 하위구조들
 
-# Collection
+# Collections
 ```mermaid
 classDiagram
 Iterable <|-- Collection
@@ -94,8 +95,8 @@ NavigableMap: <abstract>
 - https://dzone.com/articles/java-collections
 - https://swalloow.tistory.com/36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM4MjEzNTQsMTcwMjY5MzIyNSwtMT
-AwMjcwODc3Niw2NTk5MjgxNTgsMTY1NzQzOTUzNiwxNTAwODMy
-MjA1LC04MjE0MzA2MzMsMTQ5MTU3MDE4NCwxMjkwMzQzNzY0LD
-MzMDYzNDQyOF19
+eyJoaXN0b3J5IjpbLTk2MDMxOTA3MiwxNzAyNjkzMjI1LC0xMD
+AyNzA4Nzc2LDY1OTkyODE1OCwxNjU3NDM5NTM2LDE1MDA4MzIy
+MDUsLTgyMTQzMDYzMywxNDkxNTcwMTg0LDEyOTAzNDM3NjQsMz
+MwNjM0NDI4XX0=
 -->
