@@ -55,7 +55,7 @@ Queue: <interface>
 		
 	- LinkedHashSet : _double-linked list_ 로써 개체간의 순서를 보장합니다.
 	- TreeSet :  이진탐색트리(BinarySearchTree)의 형태로 데이터를 저장하며 순서를 유지하지 않습니다. 검색, 정렬이 뛰어나나 개체 추가/삭제는 시간이 소요됩니다.
-		> **BinarySearchTree**  
+		> **이진탐색트리 (BinarySearchTree)**  
 		> 123
 		
 		
@@ -100,10 +100,10 @@ NavigableMap: <interface>
 - https://swalloow.tistory.com/36
 - https://hackersstudy.tistory.com/26
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzA5MzUxNjEsLTE1NTgyNzY2NTQsNj
-I1ODk1NjQzLDg2NzkxNTk4NCwtNjU0NDkyMjIxLC0xMzAwNTY4
-MzExLDE0MTYwMTk0NjksMTAzMzkzNjg0OSwxNzAyNjkzMjI1LC
-0xMDAyNzA4Nzc2LDY1OTkyODE1OCwxNjU3NDM5NTM2LDE1MDA4
-MzIyMDUsLTgyMTQzMDYzMywxNDkxNTcwMTg0LDEyOTAzNDM3Nj
-QsMzMwNjM0NDI4XX0=
+eyJoaXN0b3J5IjpbLTEwNDM4NzA5NjMsLTE1MzA5MzUxNjEsLT
+E1NTgyNzY2NTQsNjI1ODk1NjQzLDg2NzkxNTk4NCwtNjU0NDky
+MjIxLC0xMzAwNTY4MzExLDE0MTYwMTk0NjksMTAzMzkzNjg0OS
+wxNzAyNjkzMjI1LC0xMDAyNzA4Nzc2LDY1OTkyODE1OCwxNjU3
+NDM5NTM2LDE1MDA4MzIyMDUsLTgyMTQzMDYzMywxNDkxNTcwMT
+g0LDEyOTAzNDM3NjQsMzMwNjM0NDI4XX0=
 -->
