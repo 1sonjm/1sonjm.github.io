@@ -50,6 +50,7 @@ Queue: <interface>
 - Set : 개체의 중복을 허용하지 않습니다.
 	- HashSet : _Hashing_ 을 통해 구현되었으며 개체의 순서를 보장하지 않습니다.
 		> **Hashing**  
+		> 해시함수(hash function)란 데이터의 효율적 관리를 목적으로 임의의 길이의 데이터를 고정된 길이의 데이터로 매핑하는 함수입니다. 이 때 매핑 전 원래 데이터의 값을 키(key), 매핑 후 데이터의 값을 해시값(hash value), 매핑하는 과정 자체를 **해싱(hashing)** 이라고 합니다
 		> ![Imgur](https://i.imgur.com/NnEBDcX.png)
 		
 	- LinkedHashSet : _double-linked list_ 로써 개체간의 순서를 보장합니다.
@@ -99,9 +100,9 @@ NavigableMap: <interface>
 - https://swalloow.tistory.com/36
 - https://hackersstudy.tistory.com/26
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTAyODQ4NzksODY3OTE1OTg0LC02NT
-Q0OTIyMjEsLTEzMDA1NjgzMTEsMTQxNjAxOTQ2OSwxMDMzOTM2
-ODQ5LDE3MDI2OTMyMjUsLTEwMDI3MDg3NzYsNjU5OTI4MTU4LD
-E2NTc0Mzk1MzYsMTUwMDgzMjIwNSwtODIxNDMwNjMzLDE0OTE1
-NzAxODQsMTI5MDM0Mzc2NCwzMzA2MzQ0MjhdfQ==
+eyJoaXN0b3J5IjpbNjI1ODk1NjQzLDg2NzkxNTk4NCwtNjU0ND
+kyMjIxLC0xMzAwNTY4MzExLDE0MTYwMTk0NjksMTAzMzkzNjg0
+OSwxNzAyNjkzMjI1LC0xMDAyNzA4Nzc2LDY1OTkyODE1OCwxNj
+U3NDM5NTM2LDE1MDA4MzIyMDUsLTgyMTQzMDYzMywxNDkxNTcw
+MTg0LDEyOTAzNDM3NjQsMzMwNjM0NDI4XX0=
 -->
