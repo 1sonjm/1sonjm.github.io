@@ -87,7 +87,7 @@ NavigableMap: <interface>
 ```
 - Map : 키(key)와 값(value)으로 개채 관리합니다.
 - AbstractMap :
-	- HashMap : Map 인터페이스 구현을 위해 _HashTable 을 사용하였습니다. 중복을 허용하지 않으며 
+	- HashMap : Map 인터페이스 구현을 위해 _HashTable 을 사용하였습니다. 중복을 허용하지 않으며 키와 값에 nu
 	- HashTable :  _HashMap_ 보다는 느리지만 Synchronization가 지원됩니다.
 	- LinkedHashMap :
 	- TreeMap
@@ -98,7 +98,7 @@ NavigableMap: <interface>
 - https://swalloow.tistory.com/36
 - https://hackersstudy.tistory.com/26
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjg3MTYyNiwtNjU0NDkyMjIxLC0xMz
+eyJoaXN0b3J5IjpbMTI3ODYxMjU5MywtNjU0NDkyMjIxLC0xMz
 AwNTY4MzExLDE0MTYwMTk0NjksMTAzMzkzNjg0OSwxNzAyNjkz
 MjI1LC0xMDAyNzA4Nzc2LDY1OTkyODE1OCwxNjU3NDM5NTM2LD
 E1MDA4MzIyMDUsLTgyMTQzMDYzMywxNDkxNTcwMTg0LDEyOTAz
