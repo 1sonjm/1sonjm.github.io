@@ -69,7 +69,6 @@ Queue: <interface>
 
 
 # Map
-키(key)와 값(value)으로 개채 관리
 ```mermaid
 classDiagram
 Map <-- AbstractMap
@@ -79,7 +78,7 @@ HashMap <-- LinkedHashMap
 Map: <interface>
 AbstractMap: <abstract>
 ```
-- Map :
+- Map : 키(key)와 값(value)으로 개채 관리
 - AbstractMap :
 - HashMap : 
 - LinkedHashMap :
@@ -89,7 +88,8 @@ AbstractMap: <abstract>
 - https://dzone.com/articles/java-collections
 - https://swalloow.tistory.com/36
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4MDQ4NzE3LC0xMDAyNzA4Nzc2LDY1OT
-kyODE1OCwxNjU3NDM5NTM2LDE1MDA4MzIyMDUsLTgyMTQzMDYz
-MywxNDkxNTcwMTg0LDEyOTAzNDM3NjQsMzMwNjM0NDI4XX0=
+eyJoaXN0b3J5IjpbLTEwNjkzMjMxOTksLTEwMDI3MDg3NzYsNj
+U5OTI4MTU4LDE2NTc0Mzk1MzYsMTUwMDgzMjIwNSwtODIxNDMw
+NjMzLDE0OTE1NzAxODQsMTI5MDM0Mzc2NCwzMzA2MzQ0MjhdfQ
+==
 -->
