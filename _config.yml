@@ -286,8 +286,8 @@ defaults:
       path: ""
       type: posts
     values:
-      #layout: splash
-      layout: single
+      layout: splash
+      #layout: single
       author_profile: false
       read_time: false
       search: true
